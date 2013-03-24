@@ -18,7 +18,9 @@ optparse.parse!
 case ARGV[0]
 when "fetch"
   page_uri = ARGV[1]
-  parser = JrcParser.new(page_uri)
+  cache_dir = "/cache"
+  cache_dir = File.expand_path(File.dirname(__FILE__)) + cache_dir
+  parser = JrcParser.new(page_uri, cache_dir)
   puts parser.extract
 else
   puts opt_parser
