@@ -1,21 +1,22 @@
 require 'uri'
 require 'open-uri'
 require 'nokogiri'
+require 'sanitize'
 require 'active_support'
 
 class JrcParser
 
-  def initialize(page_uri, cache_dir)
-    @page_uri = page_uri
+  def initialize(cache_dir)
     cache_options = { :expires_in => nil }
     @cache = ActiveSupport::Cache::FileStore.new(cache_dir, cache_options)
+    @sanitizer_full = Sanitize.new
   end
 
-  def extract
-    markup = get_page_markup(@page_uri)
+  def extract(page_uri)
+    markup = get_page_markup(page_uri)
     @doc = Nokogiri::HTML(markup)
     puzzles = get_puzzles(@doc)
-    puts puzzles
+    puts puzzles.inspect
   end
 
   private
@@ -33,14 +34,21 @@ class JrcParser
       markup
     end
 
+    # Given a JRC nokogiri document, fetch all the board positions
     def get_puzzles(doc)
       imgs = doc.xpath('//img').select do |img|
         img.attr('src').match(/[a-z]{2}_[dl]\.gif/)
       end
       boards = imgs.each_slice(64).to_a
+      puzzles = []
       boards.map do |board|
-        board = board_to_fen(board)
+        puzzle = Hash.new
+        puzzle[:board] = board_to_fen(board)
+        puzzle[:code] = fetch_puzzle_code(board)
+        puzzle[:solution] = fetch_puzzle_solution(puzzle[:code], doc)
+        puzzles << puzzle
       end
+      puzzles
     end
 
     # Converts an array of 64 Nokogiri <img /> elements to Forsyth-Edwards Notation
@@ -54,6 +62,7 @@ class JrcParser
       as_fen
     end
 
+    # Convert a rank (array of nokogiri <img> node objects) to its fen representation
     def rank_to_fen(rank)
       as_fen = ""
       blank_counter = 0;
@@ -86,4 +95,30 @@ class JrcParser
       end
       as_fen
     end
+
+    # Fetch the puzzle's code from the document using the elements and
+    # position of the board
+    def fetch_puzzle_code(board)
+      # Start with the first element of the board
+      top_left_square = board[0]
+      # Step backwards until we're at the title link of the puzzle
+      node = top_left_square
+      node = node.previous() until "a" == node.name() and node.attribute('name')
+      puzzle_title_link = node
+      puzzle_title_link.attribute('name').to_s
+    end
+
+    # Fetch the solution from the document using the puzzle's code string
+    def fetch_puzzle_solution(code, doc)
+      solution_title = doc.xpath('//a[contains(@name, "S' + code + '")]')
+      # todo produce a warning if we can't identify the solution
+      unless 1 == solution_title.length
+        return ""
+      end
+      node = solution_title[0].parent()
+      node = node.next() until "ul" == node.name()
+      text_without_markup = @sanitizer_full.clean(node.to_s)
+      text_without_markup.strip
+    end
+
 end
