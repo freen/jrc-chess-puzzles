@@ -1,0 +1,19 @@
+{
+    "options" : {
+        "page_address_prefix" : "http://www.entertainmentjourney.com/"
+    },
+    "sets" : [
+        {
+            "name" : "1w",
+            "description" : "White to move, mate in one.",
+            "player_to_move" : "w",
+            "moves_until_checkmate" : 1,
+            "pages" : [
+                "1w.htm", "1w1.htm", "1w2.htm", "1w3.htm", "1w4.htm",
+                "1w5.htm", "1w6.htm", "1w7.htm", "1w8.htm", "1w9.htm",
+                "1w10.htm", "1w11.htm", "1w12.htm", "1w13.htm", "1w14.htm",
+                "1w15.htm"
+            ]
+        }
+    ]
+}
