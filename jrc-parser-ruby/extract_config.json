@@ -14,6 +14,17 @@
                 "1w10.htm", "1w11.htm", "1w12.htm", "1w13.htm", "1w14.htm",
                 "1w15.htm"
             ]
+        },
+        {
+            "name" : "2w",
+            "description" : "White to move, mate in two.",
+            "player_to_move" : "w",
+            "moves_until_checkmate" : 2,
+            "pages" : [
+                "2w.htm", "2w1.htm", "2w2.htm", "2w3.htm", "2w4.htm",
+                "2w5.htm", "2w6.htm", "2w7.htm", "2w8.htm", "2w9.htm",
+                "2w10.htm", "2w11.htm"
+            ]
         }
     ]
 }
