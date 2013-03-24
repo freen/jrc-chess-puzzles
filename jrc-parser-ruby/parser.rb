@@ -33,7 +33,7 @@ when "fetch"
   cache_dir = "/cache"
   cache_dir = File.expand_path(File.dirname(__FILE__)) + cache_dir
   parser = JrcParser.new(cache_dir)
-  puzzles = parser.extract(page_uri)
+  puzzles = parser.extract(page_uri, options[:player_to_move])
   puts puzzles
 else
   puts opt_parser

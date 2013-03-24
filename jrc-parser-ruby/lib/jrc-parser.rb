@@ -12,10 +12,12 @@ class JrcParser
     @sanitizer_full = Sanitize.new
   end
 
-  def extract(page_uri)
+  # Given page_uri, fetch and extract the puzzles
+  # The board positions will feature {player_to_move} in their FEN notation
+  def extract(page_uri, player_to_move)
     markup = get_page_markup(page_uri)
     @doc = Nokogiri::HTML(markup)
-    puzzles = get_puzzles(@doc)
+    puzzles = get_puzzles(@doc, player_to_move)
     puts puzzles.inspect
   end
 
@@ -35,7 +37,7 @@ class JrcParser
     end
 
     # Given a JRC nokogiri document, fetch all the board positions
-    def get_puzzles(doc)
+    def get_puzzles(doc, player_to_move)
       imgs = doc.xpath('//img').select do |img|
         img.attr('src').match(/[a-z]{2}_[dl]\.gif/)
       end
@@ -43,7 +45,7 @@ class JrcParser
       puzzles = []
       boards.map do |board|
         puzzle = Hash.new
-        puzzle[:board] = board_to_fen(board)
+        puzzle[:board] = board_to_fen(board, player_to_move)
         puzzle[:code] = fetch_puzzle_code(board)
         puzzle[:solution] = fetch_puzzle_solution(puzzle[:code], doc)
         puzzles << puzzle
@@ -52,17 +54,17 @@ class JrcParser
     end
 
     # Converts an array of 64 Nokogiri <img /> elements to Forsyth-Edwards Notation
-    def board_to_fen(board)
+    def board_to_fen(board, player_to_move)
       as_fen = ""
       ranks = board.each_slice(8).to_a
       ranks.each_with_index do |rank, index|
         as_fen << rank_to_fen(rank)
         as_fen << "/" if index < 7
       end
-      as_fen
+      as_fen << " " + player_to_move
     end
 
-    # Convert a rank (array of nokogiri <img> node objects) to its fen representation
+    # Convert a rank (array of nokogiri <img> node objects) to its FEN representation
     def rank_to_fen(rank)
       as_fen = ""
       blank_counter = 0;
@@ -112,9 +114,7 @@ class JrcParser
     def fetch_puzzle_solution(code, doc)
       solution_title = doc.xpath('//a[contains(@name, "S' + code + '")]')
       # todo produce a warning if we can't identify the solution
-      unless 1 == solution_title.length
-        return ""
-      end
+      return "" unless 1 == solution_title.length
       node = solution_title[0].parent()
       node = node.next() until "ul" == node.name()
       text_without_markup = @sanitizer_full.clean(node.to_s)
