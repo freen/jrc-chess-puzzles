@@ -14,6 +14,7 @@ class JrcParser
   def extract
     markup = get_page_markup(@page_uri)
     @doc = Nokogiri::HTML(markup)
+    puzzles = get_puzzles(@doc)
   end
 
   private
@@ -29,5 +30,13 @@ class JrcParser
         puts "Found page in cache"
       end
       markup
+    end
+
+    def get_puzzles(doc)
+      imgs = doc.xpath('//img').select { |img| img.attr('src').match(/[a-z]{2}_[dl]\.gif/) }
+      boards = imgs.each_slice(64).to_a
+      boards.each do |board|
+
+      end
     end
 end
