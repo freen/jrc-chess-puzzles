@@ -118,6 +118,8 @@ module JrcParser
         node = node.next() until "ul" == node.name()
         text_without_markup = @sanitizer_full.clean(node.to_s)
         text_without_markup.strip
+          .gsub("\n", ' ')
+          .gsub(/\s{2,}/, ' ')
       end
   end
 end
