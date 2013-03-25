@@ -21,1417 +21,2597 @@
     {
       "board": "r2q1rk1/4bppp/p2p4/3NpP2/1p2n3/1P2B3/1PP1Q1PP/R4RK1 w",
       "code": "2W0001",
-      "solution": "1. Bb6 Qd7 2. Qxe4",
+      "unparsed_solution": "1. Bb6 Qd7 2. Qxe4",
+      "parsed_solution": [
+        [
+          "1. Bb6 Qd7 2. Qxe4"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "6k1/p3Pp1p/1pq1p1p1/3nQ3/3P4/2B5/P4PPP/6K1 w",
       "code": "2W0002",
-      "solution": "1. Qb8+ and 2. e8=Q",
+      "unparsed_solution": "1. Qb8+ and 2. e8=Q",
+      "parsed_solution": [
+        [
+          "1. Qb8+ and 2. e8=Q"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "5rk1/p1q2p1p/BpPb1Bp1/1P1p2Q1/8/8/P4PP1/4R2K w",
       "code": "2W0003",
-      "solution": "1. Qh6 2. Qg7 mate.",
+      "unparsed_solution": "1. Qh6 2. Qg7 mate.",
+      "parsed_solution": [
+        [
+          "1. Qh6 2. Qg7 mate."
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "3r1k2/4R3/3PK3/5PB1/8/8/8/8 w",
       "code": "2W0004",
-      "solution": "1. Rf7+ and 2. Bxd8",
+      "unparsed_solution": "1. Rf7+ and 2. Bxd8",
+      "parsed_solution": [
+        [
+          "1. Rf7+ and 2. Bxd8"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "rn2Q1nr/ppp4p/3p4/3k4/3P1B2/2P2N2/P1P2KPP/R3R3 w",
       "code": "2W0005",
-      "solution": "1. Qb5 c5 2. c4 mate",
+      "unparsed_solution": "1. Qb5 c5 2. c4 mate",
+      "parsed_solution": [
+        [
+          "1. Qb5 c5 2. c4 mate"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "4r1k1/ppp2pp1/2npr2p/8/4NB2/2P2K1P/PP6/4R1R1 w",
       "code": "2W0006",
-      "solution": "1. Nf6+ Rxf6 2. Rxe8",
+      "unparsed_solution": "1. Nf6+ Rxf6 2. Rxe8",
+      "parsed_solution": [
+        [
+          "1. Nf6+ Rxf6 2. Rxe8"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "2k5/1p6/p1pp3b/6p1/7r/P2KB3/2R5/7R w",
       "code": "2W0007",
-      "solution": "1. Rxh4 gxh4 2. Bxh6",
+      "unparsed_solution": "1. Rxh4 gxh4 2. Bxh6",
+      "parsed_solution": [
+        [
+          "1. Rxh4 gxh4 2. Bxh6"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "3r4/pR4p1/1p1B2k1/5p1p/P3N3/1P3P2/6PP/2Q3K1 w",
       "code": "2W0008",
-      "solution": "1. Qg5+ Kh7 2. Qxg7++",
+      "unparsed_solution": "1. Qg5+ Kh7 2. Qxg7++",
+      "parsed_solution": [
+        [
+          "1. Qg5+ Kh7 2. Qxg7++"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "1r6/1P3ppk/2R1p2p/p1NpP3/8/P4P2/6PP/1b4K1 w",
       "code": "2W0009",
-      "solution": "1. Rc8 Rxb7 2. Nxb7",
+      "unparsed_solution": "1. Rc8 Rxb7 2. Nxb7",
+      "parsed_solution": [
+        [
+          "1. Rc8 Rxb7 2. Nxb7"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "2r5/pp2R1pp/6k1/3pR3/5B1P/6P1/PPP5/6K1 w",
       "code": "2W0010",
-      "solution": "1. h5+ Kf6 2. Bg5 mate",
+      "unparsed_solution": "1. h5+ Kf6 2. Bg5 mate",
+      "parsed_solution": [
+        [
+          "1. h5+ Kf6 2. Bg5 mate"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "8/4k3/4p2R/2P5/4r2P/1PP3p1/4r1P1/R5K1 w",
       "code": "2W0011",
-      "solution": "1. Ra7+ and 2. Rh8 mate",
+      "unparsed_solution": "1. Ra7+ and 2. Rh8 mate",
+      "parsed_solution": [
+        [
+          "1. Ra7+ and 2. Rh8 mate"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "r1b3nr/pp1kpp1p/n5pb/8/3N1B2/8/PPP2PPP/2KR1BNR w",
       "code": "2W0012",
-      "solution": "1. Bb5+ Kd8 2. Ne6 mate",
+      "unparsed_solution": "1. Bb5+ Kd8 2. Ne6 mate",
+      "parsed_solution": [
+        [
+          "1. Bb5+ Kd8 2. Ne6 mate"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "rq2kb1r/pp2pppp/2P2n2/1B2N3/4P3/2N5/PP3PPP/R1BbK2R w",
       "code": "2W0013",
-      "solution": "1. c7+ Nd7 2. Bxd7 mate",
+      "unparsed_solution": "1. c7+ Nd7 2. Bxd7 mate",
+      "parsed_solution": [
+        [
+          "1. c7+ Nd7 2. Bxd7 mate"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "rnbq1rk1/ppp2p2/7R/4N1pQ/3P4/2PB4/P1PB2PP/R5K1 w",
       "code": "2W0014",
-      "solution": "1. Rh8+ kg7 2. Qh6 mate",
+      "unparsed_solution": "1. Rh8+ kg7 2. Qh6 mate",
+      "parsed_solution": [
+        [
+          "1. Rh8+ kg7 2. Qh6 mate"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "r4b1r/pk2pppp/3pq3/B7/6Q1/8/5PPP/2R3K1 w",
       "code": "2W0015",
-      "solution": "1. Qb4+ Ka6 2. Rc6 mate",
+      "unparsed_solution": "1. Qb4+ Ka6 2. Rc6 mate",
+      "parsed_solution": [
+        [
+          "1. Qb4+ Ka6 2. Rc6 mate"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "6k1/1p2q2p/3rbR2/p1p1Q3/2PpP3/3P3P/PP2B1P1/6K1 w",
       "code": "2W0016",
-      "solution": "1. Bg4 and 2. Rxe6 wins",
+      "unparsed_solution": "1. Bg4 and 2. Rxe6 wins",
+      "parsed_solution": [
+        [
+          "1. Bg4 and 2. Rxe6 wins"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "4r1k1/r1p1qpp1/p3Pn1p/1p4b1/2nPBN2/P3B3/1PQ3PP/4RRK1 w",
       "code": "2W0017",
-      "solution": "1. exf6+ and 2. Bg6 wins",
+      "unparsed_solution": "1. exf6+ and 2. Bg6 wins",
+      "parsed_solution": [
+        [
+          "1. exf6+ and 2. Bg6 wins"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "r4b1r/p3pppp/3p4/8/2Q5/8/R2q1PPP/1k4K1 w",
       "code": "2W0018",
-      "solution": "1. Qb3+ Kc1 2. Ra1 mate",
+      "unparsed_solution": "1. Qb3+ Kc1 2. Ra1 mate",
+      "parsed_solution": [
+        [
+          "1. Qb3+ Kc1 2. Ra1 mate"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "7r/p1p3pp/3pQ3/1p1PpBk1/4P3/3Pb1PK/PP3q2/R7 w",
       "code": "2W0019",
-      "solution": "1. Qe7+ Kh7 2. Qh4 mate",
+      "unparsed_solution": "1. Qe7+ Kh7 2. Qh4 mate",
+      "parsed_solution": [
+        [
+          "1. Qe7+ Kh7 2. Qh4 mate"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "1r4k1/pp3R2/2pNN1p1/3n3p/3P3P/2P1n3/PP4P1/6K1 w",
       "code": "2W0020",
-      "solution": "1. Rg7+ Kh8 2. Nf7 mate",
+      "unparsed_solution": "1. Rg7+ Kh8 2. Nf7 mate",
+      "parsed_solution": [
+        [
+          "1. Rg7+ Kh8 2. Nf7 mate"
+        ]
+      ],
       "page": "2w.htm"
     },
     {
       "board": "2r5/3bk1B1/pq2p1Q1/1p2P3/8/2p1n3/PP4PP/7K w",
       "code": "2W0021",
-      "solution": "1. Qf6+ Ke8 2. Qf8 mate",
+      "unparsed_solution": "1. Qf6+ Ke8 2. Qf8 mate",
+      "parsed_solution": [
+        [
+          "1. Qf6+ Ke8 2. Qf8 mate"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "2R5/5pk1/8/4PPp1/p5r1/Pb1BK1P1/7P/8 w",
       "code": "2W0022",
-      "solution": "1. f6+ Kh6 2. Rh8 mate",
+      "unparsed_solution": "1. f6+ Kh6 2. Rh8 mate",
+      "parsed_solution": [
+        [
+          "1. f6+ Kh6 2. Rh8 mate"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "1R6/4Np1p/3p2pk/2nP4/3Q4/8/2q2PPP/6K1 w",
       "code": "2W0023",
-      "solution": "1. Qh4+ Kg7 2. Rg8 mate",
+      "unparsed_solution": "1. Qh4+ Kg7 2. Rg8 mate",
+      "parsed_solution": [
+        [
+          "1. Qh4+ Kg7 2. Rg8 mate"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "3Q4/2pb4/3p2pk/2pPpp2/8/q1P3PP/4P1B1/4K3 w",
       "code": "2W0024",
-      "solution": "1. Qh8+ Kg5 2. Qh4 mate",
+      "unparsed_solution": "1. Qh8+ Kg5 2. Qh4 mate",
+      "parsed_solution": [
+        [
+          "1. Qh8+ Kg5 2. Qh4 mate"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "8/8/8/8/8/k2K4/p7/Q7 w",
       "code": "2W0025",
-      "solution": "1. Kc4 Ka4 2. Qxa2 mate",
+      "unparsed_solution": "1. Kc4 Ka4 2. Qxa2 mate",
+      "parsed_solution": [
+        [
+          "1. Kc4 Ka4 2. Qxa2 mate"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "8/8/8/8/7Q/3K4/P5p1/6k1 w",
       "code": "2W0026",
-      "solution": "1. Ke3 Kf1 2. Qf2 mate.",
+      "unparsed_solution": "1. Ke3 Kf1 2. Qf2 mate.",
+      "parsed_solution": [
+        [
+          "1. Ke3 Kf1 2. Qf2 mate."
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "r3kb1r/ppp1qppp/2n2n2/3p2B1/2P3P1/3b1N1P/PP2QP2/RN2KB1R w",
       "code": "2W0027",
-      "solution": "1. Qxe7+ and 2. Bxd3 wins",
+      "unparsed_solution": "1. Qxe7+ and 2. Bxd3 wins",
+      "parsed_solution": [
+        [
+          "1. Qxe7+ and 2. Bxd3 wins"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "r1bq1bnr/ppp3pp/2npk3/3NN3/3P4/8/PPP3PP/R1BQ1RK1 w",
       "code": "2W0028",
-      "solution": "1. Qg4+ Kxd5 2. c4 mate!",
+      "unparsed_solution": "1. Qg4+ Kxd5 2. c4 mate!",
+      "parsed_solution": [
+        [
+          "1. Qg4+ Kxd5 2. c4 mate!"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "2r1rbk1/ppp2p1p/1n2p1p1/4P1B1/3PN2Q/8/PPP2PPP/R3R1K1 w",
       "code": "2W0029",
-      "solution": "1. Nf6+ and 2. Qxh7 mate",
+      "unparsed_solution": "1. Nf6+ and 2. Qxh7 mate",
+      "parsed_solution": [
+        [
+          "1. Nf6+ and 2. Qxh7 mate"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "r3r1k1/pbpn2b1/1p3qQ1/3p2N1/3P4/2N1P3/PP3PP1/R3K2R w",
       "code": "2W0030",
-      "solution": "1. Rh8+ Kxh8 2. Qh7 mate.",
+      "unparsed_solution": "1. Rh8+ Kxh8 2. Qh7 mate.",
+      "parsed_solution": [
+        [
+          "1. Rh8+ Kxh8 2. Qh7 mate."
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "r1b2r2/ppqn2QR/4p3/3p1k2/3Pp3/2PB4/PP1N2P1/R3K3 w",
       "code": "2W0031",
-      "solution": "1. Rh5+ Kf4 2. Qg5 mate",
+      "unparsed_solution": "1. Rh5+ Kf4 2. Qg5 mate",
+      "parsed_solution": [
+        [
+          "1. Rh5+ Kf4 2. Qg5 mate"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "r4r2/ppp2pkp/2n5/4P1B1/4Q3/5K2/PPP4P/6R1 w",
       "code": "2W0032",
-      "solution": "1. Bf6+ Kh6 2. Qh4 mate.",
+      "unparsed_solution": "1. Bf6+ Kh6 2. Qh4 mate.",
+      "parsed_solution": [
+        [
+          "1. Bf6+ Kh6 2. Qh4 mate."
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "2N1k3/p4pbp/n3p1p1/4P3/2P2B2/5B2/1Pn1RPPP/3R2K1 w",
       "code": "2W0033",
-      "solution": "1. Bc6+ Kf8 2. Rd8 mate.",
+      "unparsed_solution": "1. Bc6+ Kf8 2. Rd8 mate.",
+      "parsed_solution": [
+        [
+          "1. Bc6+ Kf8 2. Rd8 mate."
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "rqb1k2r/1p2b1p1/p3Bn2/1Np5/2P2BQ1/7P/PP4P1/3RR1K1 w",
       "code": "2W0034",
-      "solution": "1. Qg6+ Kf8 2. Qf7 mate.",
+      "unparsed_solution": "1. Qg6+ Kf8 2. Qf7 mate.",
+      "parsed_solution": [
+        [
+          "1. Qg6+ Kf8 2. Qf7 mate."
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "r1b4k/pp3Qr1/4p1B1/8/3p4/5N2/PPP2PP1/2K5 w",
       "code": "2W0035",
-      "solution": "1. Qf8+ Rg8 2. Qh6 mate",
+      "unparsed_solution": "1. Qf8+ Rg8 2. Qh6 mate",
+      "parsed_solution": [
+        [
+          "1. Qf8+ Rg8 2. Qh6 mate"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "6r1/3p3p/4pQ2/6Bk/8/1b2KN2/2q1PPPP/5B1R w",
       "code": "2W0036",
-      "solution": "1. Qh6+ Kg4 2. Qh3 mate",
+      "unparsed_solution": "1. Qh6+ Kg4 2. Qh3 mate",
+      "parsed_solution": [
+        [
+          "1. Qh6+ Kg4 2. Qh3 mate"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "7r/p1p3pp/3pQ3/1p1PpBk1/4P3/3Pb1PK/PP3q2/R7 w",
       "code": "2W0037",
-      "solution": "1. Qe7+ Kh6 2. Qh4 mate.",
+      "unparsed_solution": "1. Qe7+ Kh6 2. Qh4 mate.",
+      "parsed_solution": [
+        [
+          "1. Qe7+ Kh6 2. Qh4 mate."
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "r5q1/ppk5/2p2Q2/4pB2/1P6/2bPB3/P3K1PP/7R w",
       "code": "2W0038",
-      "solution": "1. Qe7+ Kb8 2. Qd6 mate.",
+      "unparsed_solution": "1. Qe7+ Kb8 2. Qd6 mate.",
+      "parsed_solution": [
+        [
+          "1. Qe7+ Kb8 2. Qd6 mate."
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "1rr5/p4kpp/1p4p1/4Pn2/1RbBBP2/2P5/P5PP/R5K1 w",
       "code": "2W0039",
-      "solution": "1. Rxc4 Rxc4 2. Bd5+ wins",
+      "unparsed_solution": "1. Rxc4 Rxc4 2. Bd5+ wins",
+      "parsed_solution": [
+        [
+          "1. Rxc4 Rxc4 2. Bd5+ wins"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "k2r2r1/1R3R2/p1p5/7p/1p1p4/7B/PNP3PP/6K1 w",
       "code": "2W0040",
-      "solution": "1. Ra7+ Kb8 2. Rfb7 mate",
+      "unparsed_solution": "1. Ra7+ Kb8 2. Rfb7 mate",
+      "parsed_solution": [
+        [
+          "1. Ra7+ Kb8 2. Rfb7 mate"
+        ]
+      ],
       "page": "2w1.htm"
     },
     {
       "board": "7r/R5p1/1pkb1p1n/2p4p/8/8/2Q2PPP/6K1 w",
       "code": "2W0041",
-      "solution": "1. Qe4+ Kb5 2. Qa4 mate.",
+      "unparsed_solution": "1. Qe4+ Kb5 2. Qa4 mate.",
+      "parsed_solution": [
+        [
+          "1. Qe4+ Kb5 2. Qa4 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "3Q4/p1N2k1p/1p5p/4Pp2/8/7P/PP4P1/4RK2 w",
       "code": "2W0042",
-      "solution": "1. Qe8+ Kg7 2. Ne6 mate.",
+      "unparsed_solution": "1. Qe8+ Kg7 2. Ne6 mate.",
+      "parsed_solution": [
+        [
+          "1. Qe8+ Kg7 2. Ne6 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "2r3k1/3bbRnr/pq2p1QB/1p2PR2/8/8/Pp4PP/7K w",
       "code": "2W0043",
-      "solution": "1. Rxg7+ mates on move 2.",
+      "unparsed_solution": "1. Rxg7+ mates on move 2.",
+      "parsed_solution": [
+        [
+          "1. Rxg7+ mates on move 2."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "6k1/p2r3p/1p4pB/5p2/1P3P2/P3R2P/2q3P1/4R2K w",
       "code": "2W0044",
-      "solution": "1. Re8+ Kf7 2. Rf8 mate.",
+      "unparsed_solution": "1. Re8+ Kf7 2. Rf8 mate.",
+      "parsed_solution": [
+        [
+          "1. Re8+ Kf7 2. Rf8 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "7r/5k1p/3QR3/q2P4/2P5/1P6/r6P/7K w",
       "code": "2W0045",
-      "solution": "1. Qd7+ Kf8 2. Re8 mate.",
+      "unparsed_solution": "1. Qd7+ Kf8 2. Re8 mate.",
+      "parsed_solution": [
+        [
+          "1. Qd7+ Kf8 2. Re8 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "2R5/6bk/3p3p/3P4/1p3NP1/1Q3P1P/P1K5/q3r3 w",
       "code": "2W0046",
-      "solution": "1. Qd3+ Re4 2. Qxe4 mate",
+      "unparsed_solution": "1. Qd3+ Re4 2. Qxe4 mate",
+      "parsed_solution": [
+        [
+          "1. Qd3+ Re4 2. Qxe4 mate"
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "6k1/2R4N/p7/8/8/1KB1r3/4B3/4b3 w",
       "code": "2W0047",
-      "solution": "1. Bc4 Re6 2. Bxe6 mate.",
+      "unparsed_solution": "1. Bc4 Re6 2. Bxe6 mate.",
+      "parsed_solution": [
+        [
+          "1. Bc4 Re6 2. Bxe6 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "8/2p5/2Pp4/R7/1P2pk2/P6P/4p2K/2r1N3 w",
       "code": "2W0048",
-      "solution": "1. Ng2+ Kf3 2. Rf5 mate.",
+      "unparsed_solution": "1. Ng2+ Kf3 2. Rf5 mate.",
+      "parsed_solution": [
+        [
+          "1. Ng2+ Kf3 2. Rf5 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "7Q/4R3/3p2k1/r5q1/8/5P2/P5PP/7K w",
       "code": "2W0049",
-      "solution": "1. Qh7+ Kf6 2. Qf7 mate.",
+      "unparsed_solution": "1. Qh7+ Kf6 2. Qf7 mate.",
+      "parsed_solution": [
+        [
+          "1. Qh7+ Kf6 2. Qf7 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "5Q2/4R3/3p2k1/r5q1/8/5P2/P5PP/7K w",
       "code": "2W0050",
-      "solution": "1. Qf7+ and 2. Qh7 mate.",
+      "unparsed_solution": "1. Qf7+ and 2. Qh7 mate.",
+      "parsed_solution": [
+        [
+          "1. Qf7+ and 2. Qh7 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "8/8/8/8/8/2QK1P2/1p6/k7 w",
       "code": "2W0051",
-      "solution": "1. Kc2 Ka2 2. Qxb2 mate.",
+      "unparsed_solution": "1. Kc2 Ka2 2. Qxb2 mate.",
+      "parsed_solution": [
+        [
+          "1. Kc2 Ka2 2. Qxb2 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "8/5K1k/4N3/6B1/8/8/8/8 w",
       "code": "2W0052",
-      "solution": "1. Nf8+ Kh8 2. Bf6 mate",
+      "unparsed_solution": "1. Nf8+ Kh8 2. Bf6 mate",
+      "parsed_solution": [
+        [
+          "1. Nf8+ Kh8 2. Bf6 mate"
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "5rk1/p1Rp1ppp/B2Q4/4pPB1/4n3/8/PP3PPP/4K1NR w",
       "code": "2W0053",
-      "solution": "1. Qxf8+ Kxf8 2. Rc8 mate",
+      "unparsed_solution": "1. Qxf8+ Kxf8 2. Rc8 mate",
+      "parsed_solution": [
+        [
+          "1. Qxf8+ Kxf8 2. Rc8 mate"
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "Q6r/p1pk1ppp/3p4/1p1Pp1q1/4P3/3Pb1P1/PP2n1BP/R4R1K w",
       "code": "2W0054",
-      "solution": "1. Rxf7+ Qe7 2. Bh3 mate!",
+      "unparsed_solution": "1. Rxf7+ Qe7 2. Bh3 mate!",
+      "parsed_solution": [
+        [
+          "1. Rxf7+ Qe7 2. Bh3 mate!"
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "r4r1k/ppp2Bpp/2n5/4qQB1/8/3R4/P5PP/5R1K w",
       "code": "2W0055",
-      "solution": "1. Qxh7+ Kxh7 2. Rh3 mate",
+      "unparsed_solution": "1. Qxh7+ Kxh7 2. Rh3 mate",
+      "parsed_solution": [
+        [
+          "1. Qxh7+ Kxh7 2. Rh3 mate"
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "r4rk1/p3pp1p/p2p4/7p/3Q1P2/P4q2/1PP5/2KR3R w",
       "code": "2W0056",
-      "solution": "1. Rg1+ Qg4 2. Rxg4+ wins",
+      "unparsed_solution": "1. Rg1+ Qg4 2. Rxg4+ wins",
+      "parsed_solution": [
+        [
+          "1. Rg1+ Qg4 2. Rxg4+ wins"
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "r5k1/ppp1qr2/5pp1/b3P1N1/P1BP4/2P4Q/2P3PP/R1B3K1 w",
       "code": "2W0057",
-      "solution": "1. Qh7+ Kf8 2. Qh8 mate.",
+      "unparsed_solution": "1. Qh7+ Kf8 2. Qh8 mate.",
+      "parsed_solution": [
+        [
+          "1. Qh7+ Kf8 2. Qh8 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "r5rk/1p2b3/n1p4B/p2pP2Q/3P2b1/2P3P1/P1P4P/1R3RK1 w",
       "code": "2W0058",
-      "solution": "1. Bg7+ Kxg7 2. Rf7 mate.",
+      "unparsed_solution": "1. Bg7+ Kxg7 2. Rf7 mate.",
+      "parsed_solution": [
+        [
+          "1. Bg7+ Kxg7 2. Rf7 mate."
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "2rr2k1/1R3ppp/5n2/2P5/8/8/Q2q1PPP/4R1K1 w",
       "code": "2W0059",
-      "solution": "1. Qxf7+ Kh8 2. Qxg7 mate",
+      "unparsed_solution": "1. Qxf7+ Kh8 2. Qxg7 mate",
+      "parsed_solution": [
+        [
+          "1. Qxf7+ Kh8 2. Qxg7 mate"
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "rq3k1r/1pN1b1p1/p3bnQ1/2p5/2P2B2/7P/PP4P1/3RR1K1 w",
       "code": "2W0060",
-      "solution": "1. Nxe6+ Kg8 2. Qxg7 mate",
+      "unparsed_solution": "1. Nxe6+ Kg8 2. Qxg7 mate",
+      "parsed_solution": [
+        [
+          "1. Nxe6+ Kg8 2. Qxg7 mate"
+        ]
+      ],
       "page": "2w2.htm"
     },
     {
       "board": "r2k1r2/pp2Rnbp/n2P4/1Bp2pp1/8/P1N2PBP/1P3PK1/4R3 w",
       "code": "2W0061",
-      "solution": "1. Re8+ Rxe8 2. Rxe8 mate",
+      "unparsed_solution": "1. Re8+ Rxe8 2. Rxe8 mate",
+      "parsed_solution": [
+        [
+          "1. Re8+ Rxe8 2. Rxe8 mate"
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "r6r/5p2/pp1p1kp1/2pPR3/P1P5/2Q2NPq/1P3K2/R7 w",
       "code": "2W0062",
-      "solution": "1. Re4+ Kf5 2. Rf4 mate.",
+      "unparsed_solution": "1. Re4+ Kf5 2. Rf4 mate.",
+      "parsed_solution": [
+        [
+          "1. Re4+ Kf5 2. Rf4 mate."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "r1bQ3R/p4qp1/1pp3kp/5p2/3P4/P1P2R2/6PP/6K1 w",
       "code": "2W0063",
-      "solution": "1. Rg3+ Kh5 2. Qg5 mate!!",
+      "unparsed_solution": "1. Rg3+ Kh5 2. Qg5 mate!!",
+      "parsed_solution": [
+        [
+          "1. Rg3+ Kh5 2. Qg5 mate!!"
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "2kr3r/p1n2Rpq/2p1p3/4P1b1/P2P4/1Q5P/1P2B1P1/4B1K1 w",
       "code": "2W0064",
-      "solution": "1. Ba6+ Nxa6 2. Qb7 mate",
+      "unparsed_solution": "1. Ba6+ Nxa6 2. Qb7 mate",
+      "parsed_solution": [
+        [
+          "1. Ba6+ Nxa6 2. Qb7 mate"
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "4r3/1R6/3b1p2/kpp1n2p/4Q3/6PP/5P2/6K1 w",
       "code": "2W0065",
-      "solution": "1. Ra7+ Kb6 2. Qb7 mate.",
+      "unparsed_solution": "1. Ra7+ Kb6 2. Qb7 mate.",
+      "parsed_solution": [
+        [
+          "1. Ra7+ Kb6 2. Qb7 mate."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "3q3k/6b1/2Q4p/1P4p1/P4p2/2B4P/3p1PPN/6K1 w",
       "code": "2W0066",
-      "solution": "1. Qxh6+ Kg8 2. Qxg7 mate",
+      "unparsed_solution": "1. Qxh6+ Kg8 2. Qxg7 mate",
+      "parsed_solution": [
+        [
+          "1. Qxh6+ Kg8 2. Qxg7 mate"
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "2Q5/p1b4p/1p4p1/1k1Bp3/1P1pP3/P5P1/7q/5K2 w",
       "code": "2W0067",
-      "solution": "1. Qd7+ Ka6 2. Qa4 mate.",
+      "unparsed_solution": "1. Qd7+ Ka6 2. Qa4 mate.",
+      "parsed_solution": [
+        [
+          "1. Qd7+ Ka6 2. Qa4 mate."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "8/4Q3/3pR3/r4kq1/8/5P2/P5PP/7K w",
       "code": "2W0068",
-      "solution": "1. Qf7+ Qf6 2. Qxf6 mate.",
+      "unparsed_solution": "1. Qf7+ Qf6 2. Qxf6 mate.",
+      "parsed_solution": [
+        [
+          "1. Qf7+ Qf6 2. Qxf6 mate."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "8/4Q3/3pR3/r5qk/8/5P2/P5PP/7K w",
       "code": "2W0069",
-      "solution": "1. Qh7+ Qh6 2. Qxh6 mate.",
+      "unparsed_solution": "1. Qh7+ Qh6 2. Qxh6 mate.",
+      "parsed_solution": [
+        [
+          "1. Qh7+ Qh6 2. Qxh6 mate."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "6Q1/4R3/3p4/r5qk/8/5P2/P5PP/7K w",
       "code": "2W0070",
-      "solution": "1. Rh7+ Qh6 2. Qg4 mate!",
+      "unparsed_solution": "1. Rh7+ Qh6 2. Qg4 mate!",
+      "parsed_solution": [
+        [
+          "1. Rh7+ Qh6 2. Qg4 mate!"
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "Q6r/p1pk1ppp/3p4/1p1Pp1q1/4P3/3Pb1P1/PP2n1BP/R4R1K w",
       "code": "2W0071",
-      "solution": "1. Rxf7+ Qe7 2. Bh3 mate!",
+      "unparsed_solution": "1. Rxf7+ Qe7 2. Bh3 mate!",
+      "parsed_solution": [
+        [
+          "1. Rxf7+ Qe7 2. Bh3 mate!"
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "3r3r/2pk1ppp/p1pN2n1/2B5/8/5R2/PPP3PP/4R1K1 w",
       "code": "2W0072",
-      "solution": "1. Rxf7+ Ne7 2. Rxe7 mate.",
+      "unparsed_solution": "1. Rxf7+ Ne7 2. Rxe7 mate.",
+      "parsed_solution": [
+        [
+          "1. Rxf7+ Ne7 2. Rxe7 mate."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "2r1r1k1/pp3p1p/3p2pB/3p4/2n1Q3/3R4/P1q2PPP/4R1K1 w",
       "code": "2W0073",
-      "solution": "1. Qxe8+ Rxe8 2. Rxe8 mate",
+      "unparsed_solution": "1. Qxe8+ Rxe8 2. Rxe8 mate",
+      "parsed_solution": [
+        [
+          "1. Qxe8+ Rxe8 2. Rxe8 mate"
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "r5r1/pp2k2N/3p1p2/b4B2/P2P3Q/B1P5/2P3PP/R5K1 w",
       "code": "2W0074",
-      "solution": "1. Qxf6+ Ke8 2. Re1 mate.",
+      "unparsed_solution": "1. Qxf6+ Ke8 2. Re1 mate.",
+      "parsed_solution": [
+        [
+          "1. Qxf6+ Ke8 2. Re1 mate."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "r6r/p5k1/1p3pp1/8/PP1Q2qp/R2P1b2/5PB1/5RK1 w",
       "code": "2W0075",
-      "solution": "1. Qxg4 Bxg4 2. Bxa8 wins.",
+      "unparsed_solution": "1. Qxg4 Bxg4 2. Bxa8 wins.",
+      "parsed_solution": [
+        [
+          "1. Qxg4 Bxg4 2. Bxa8 wins."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "k7/brB1qpp1/2Q2n1p/3P4/1P6/2P2N1P/1K6/R3R3 w",
       "code": "2W0076",
-      "solution": "1. Rxa7+ Kxa7 2. Ra1 mate.",
+      "unparsed_solution": "1. Rxa7+ Kxa7 2. Ra1 mate.",
+      "parsed_solution": [
+        [
+          "1. Rxa7+ Kxa7 2. Ra1 mate."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "4Q3/pkb4p/1p2B1p1/4p3/1P1pP3/P5P1/7q/5K2 w",
       "code": "2W0077",
-      "solution": "1. Bd5+ Ka6 2. Qa4 mate.",
+      "unparsed_solution": "1. Bd5+ Ka6 2. Qa4 mate.",
+      "parsed_solution": [
+        [
+          "1. Bd5+ Ka6 2. Qa4 mate."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "8/8/4b1R1/P1P1k3/6P1/1r2p3/4B2P/5K2 w",
       "code": "2W0078",
-      "solution": "1. Rxe6+ Kxe6 2. Bc4+ wins",
+      "unparsed_solution": "1. Rxe6+ Kxe6 2. Bc4+ wins",
+      "parsed_solution": [
+        [
+          "1. Rxe6+ Kxe6 2. Bc4+ wins"
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "8/5p2/4pP2/3kn3/1Pp5/4R1P1/1r5P/4B1K1 w",
       "code": "2W0079",
-      "solution": "1. Rxe5+ Kxe5 2. Bc3+ wins",
+      "unparsed_solution": "1. Rxe5+ Kxe5 2. Bc3+ wins",
+      "parsed_solution": [
+        [
+          "1. Rxe5+ Kxe5 2. Bc3+ wins"
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "6rk/pp1b2p1/2p1p1Qp/2Pn1r2/1P1P4/8/P7/2K4R w",
       "code": "2W0080",
-      "solution": "1. Rxh6+ gxh6 2. Qxh6 mate.",
+      "unparsed_solution": "1. Rxh6+ gxh6 2. Qxh6 mate.",
+      "parsed_solution": [
+        [
+          "1. Rxh6+ gxh6 2. Qxh6 mate."
+        ]
+      ],
       "page": "2w3.htm"
     },
     {
       "board": "b6Q/7r/4N1pk/1p3p1p/8/2P2P2/qP2RKPP/8 w",
       "code": "2W0081",
-      "solution": "1. Qf8+ Rg7 2. Qxg7 mate.",
+      "unparsed_solution": "1. Qf8+ Rg7 2. Qxg7 mate.",
+      "parsed_solution": [
+        [
+          "1. Qf8+ Rg7 2. Qxg7 mate."
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "rnbq1r1k/ppp4p/6R1/7Q/3P4/2PB4/P1PB2PP/R5K1 w",
       "code": "2W0082",
-      "solution": "1. Rg8+ and then 2. Qxh7 mate",
+      "unparsed_solution": "1. Rg8+ and then 2. Qxh7 mate",
+      "parsed_solution": [
+        [
+          "1. Rg8+ and then 2. Qxh7 mate"
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "3kr3/p2n1ppp/1p3b2/3N4/5B2/2P2P1B/PP3P1P/3R2K1 w",
       "code": "2W0083",
-      "solution": "simpley 1. Nxf6 and 2. Rxd7+",
+      "unparsed_solution": "simpley 1. Nxf6 and 2. Rxd7+",
+      "parsed_solution": [
+        [
+          "simpley 1. Nxf6 and 2. Rxd7+"
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "1r5r/pP2kp2/3qb1pp/4Q3/2B5/2P5/P6P/R4RK1 w",
       "code": "2W0084",
-      "solution": "1. Rxf7+!! Kxf7 2. Qxd6 wins!",
+      "unparsed_solution": "1. Rxf7+!! Kxf7 2. Qxd6 wins!",
+      "parsed_solution": [
+        [
+          "1. Rxf7+!! Kxf7 2. Qxd6 wins!"
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "r3k2r/ppp2ppp/2n5/4P2b/3Qp2q/2P2N2/P1PK2PP/R1B2B1R w",
       "code": "2W0085",
-      "solution": "1. Nxh4 Nxd4 2. cd wins a piece",
+      "unparsed_solution": "1. Nxh4 Nxd4 2. cd wins a piece",
+      "parsed_solution": [
+        [
+          "1. Nxh4 Nxd4 2. cd wins a piece"
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "r2qkr2/ppp2pQp/2n1b3/b2N4/3PP3/5N2/PPP3PP/2KR1B1R w",
       "code": "2W0086",
-      "solution": "1. Nf6+ Ke7 2. d5 with a fork.",
+      "unparsed_solution": "1. Nf6+ Ke7 2. d5 with a fork.",
+      "parsed_solution": [
+        [
+          "1. Nf6+ Ke7 2. d5 with a fork."
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "2rqr1k1/p2bb1pp/1pp1p3/3pN3/3Pn2P/1P2P1P1/PB3PB1/R2QR1K1 w",
       "code": "2W0087",
-      "solution": "1. Bxe4 dxe4 2. Qg4 wins a pawn.",
+      "unparsed_solution": "1. Bxe4 dxe4 2. Qg4 wins a pawn.",
+      "parsed_solution": [
+        [
+          "1. Bxe4 dxe4 2. Qg4 wins a pawn."
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "3R4/kp4b1/p1qQ3p/4p1p1/P7/2P5/1PP1r3/1KB5 w",
       "code": "2W0088",
-      "solution": "1. Qb8+ Kb6 2. Rd6 pins the queen.",
+      "unparsed_solution": "1. Qb8+ Kb6 2. Rd6 pins the queen.",
+      "parsed_solution": [
+        [
+          "1. Qb8+ Kb6 2. Rd6 pins the queen."
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "7R/8/8/2p5/2k5/1pr4p/1K6/8 w",
       "code": "2W0089",
-      "solution": "1. Rh4+ Kd3 2. Rxh3+ wins the rook",
+      "unparsed_solution": "1. Rh4+ Kd3 2. Rxh3+ wins the rook",
+      "parsed_solution": [
+        [
+          "1. Rh4+ Kd3 2. Rxh3+ wins the rook"
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "r1bqkb1r/pp1p1p1p/1n1P2p1/2p1P3/1n6/5N2/PP3PPP/RNBQKB1R w",
       "code": "2W0090",
-      "solution": "1. Bg5 Be7 2. Bxe7 traps the queen.",
+      "unparsed_solution": "1. Bg5 Be7 2. Bxe7 traps the queen.",
+      "parsed_solution": [
+        [
+          "1. Bg5 Be7 2. Bxe7 traps the queen."
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "rnb1r1k1/pp3ppp/8/2p3b1/2N1n3/2P1BB2/PP3PPP/RN2K2R w",
       "code": "2W0091",
-      "solution": "1. Bxe4 Rxe4 2. Nd6 forks two pieces",
+      "unparsed_solution": "1. Bxe4 Rxe4 2. Nd6 forks two pieces",
+      "parsed_solution": [
+        [
+          "1. Bxe4 Rxe4 2. Nd6 forks two pieces"
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "2rq1rk1/pp1bbppp/3p1n2/3Pn3/8/2N1BN2/PP2BPPP/2RQ1RK1 w",
       "code": "2W0092",
-      "solution": "1. Nxe5 dxe5 2. d6 traps the bishop",
+      "unparsed_solution": "1. Nxe5 dxe5 2. d6 traps the bishop",
+      "parsed_solution": [
+        [
+          "1. Nxe5 dxe5 2. d6 traps the bishop"
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "3r2k1/1p3ppp/p1n5/3p2Q1/8/5B2/P1q2PPP/4R1K1 w",
       "code": "2W0093",
-      "solution": "1. Qxd8+ Nxd8 (forced) 2. Re8 Mate",
+      "unparsed_solution": "1. Qxd8+ Nxd8 (forced) 2. Re8 Mate",
+      "parsed_solution": [
+        [
+          "1. Qxd8+ Nxd8 (forced) 2. Re8 Mate"
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "8/Q1p2ppk/7p/8/2P1p2q/2B1P2b/PP2B3/R5RK w",
       "code": "2W0094",
-      "solution": "1. Rxg7+ and 2. Qa8+ leads to mate.",
+      "unparsed_solution": "1. Rxg7+ and 2. Qa8+ leads to mate.",
+      "parsed_solution": [
+        [
+          "1. Rxg7+ and 2. Qa8+ leads to mate."
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "b1r3rk/3n1p1p/pp2pq2/5nN1/PPP2P2/3B4/2N2QPP/3RR1K1 w",
       "code": "2W0095",
-      "solution": "1. Bxf5 Qxf5 (or exf5) 2. Rxd7 wins",
+      "unparsed_solution": "1. Bxf5 Qxf5 (or exf5) 2. Rxd7 wins",
+      "parsed_solution": [
+        [
+          "1. Bxf5 Qxf5 (or exf5) 2. Rxd7 wins"
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "2kr1br1/pppqn2p/3pQ3/8/3P2N1/3B1N2/PPP3PP/R4RK1 w",
       "code": "2W0096",
-      "solution": "1. Qxd7+ and then 2. Nf6 with a fork.",
+      "unparsed_solution": "1. Qxd7+ and then 2. Nf6 with a fork.",
+      "parsed_solution": [
+        [
+          "1. Qxd7+ and then 2. Nf6 with a fork."
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "3r2k1/pp3ppp/3r4/8/5N2/2N5/PPP3PP/2KRR3 w",
       "code": "2W0097",
-      "solution": "1. Rxd6 and now if Rxd6 2. Re8 mate.",
+      "unparsed_solution": "1. Rxd6 and now if Rxd6 2. Re8 mate.",
+      "parsed_solution": [
+        [
+          "1. Rxd6 and now if Rxd6 2. Re8 mate."
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "r1b3R1/p1pk3r/1p1p1R2/1N1PpP2/2P1P2B/7P/PP5K/8 w",
       "code": "2W0098",
-      "solution": "1. Rf7+ (or Rxd6+!) Rxf7 2. Rd8 mate",
+      "unparsed_solution": "1. Rf7+ (or Rxd6+!) Rxf7 2. Rd8 mate",
+      "parsed_solution": [
+        [
+          "1. Rf7+ (or Rxd6+!) Rxf7 2. Rd8 mate"
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "8/7p/ppR1r1p1/2p2k2/2P2PN1/1P2PK2/7P/2n5 w",
       "code": "2W0099",
-      "solution": "1. e4+ Rxe4 2. Nh6 mate or Rf6 mate.",
+      "unparsed_solution": "1. e4+ Rxe4 2. Nh6 mate or Rf6 mate.",
+      "parsed_solution": [
+        [
+          "1. e4+ Rxe4 2. Nh6 mate or Rf6 mate."
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "6Q1/8/8/p4K2/8/1p3P2/k7/8 w",
       "code": "2W0100",
-      "solution": "1. Qa8 b2 2. Qxa5+ is a won endgame.",
+      "unparsed_solution": "1. Qa8 b2 2. Qxa5+ is a won endgame.",
+      "parsed_solution": [
+        [
+          "1. Qa8 b2 2. Qxa5+ is a won endgame."
+        ]
+      ],
       "page": "2w4.htm"
     },
     {
       "board": "r1bq1rk1/ppp2pb1/3p1npp/3Pp3/2P1PPn1/2N5/PP1BB1PP/R2QK1NR w",
       "code": "2W0101",
-      "solution": "1. h3 traps the knight on g4. 2. hxg4",
+      "unparsed_solution": "1. h3 traps the knight on g4. 2. hxg4",
+      "parsed_solution": [
+        [
+          "1. h3 traps the knight on g4. 2. hxg4"
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "1Q6/pr2qkp1/3R3p/2p1p3/2N5/5P2/P5PP/6K1 w",
       "code": "2W0102",
-      "solution": "1. Nxe5+ Qxe5 2. Qxb7+ wins material.",
+      "unparsed_solution": "1. Nxe5+ Qxe5 2. Qxb7+ wins material.",
+      "parsed_solution": [
+        [
+          "1. Nxe5+ Qxe5 2. Qxb7+ wins material."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "8/4Q3/3p4/r4kq1/8/5P2/P5PP/4R2K w",
       "code": "2W0103",
-      "solution": "1. Qe6+ Kf4 and now 2. Re4 or Qe4 mate",
+      "unparsed_solution": "1. Qe6+ Kf4 and now 2. Re4 or Qe4 mate",
+      "parsed_solution": [
+        [
+          "1. Qe6+ Kf4 and now 2. Re4 or Qe4 mate"
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "rnbqkr2/pppp1pQp/4n3/4P1B1/8/2P5/PPP3PP/R3KBNR w",
       "code": "2W0104",
-      "solution": "1. Qxf8+ and 2. Bxd8 wins the exchange.",
+      "unparsed_solution": "1. Qxf8+ and 2. Bxd8 wins the exchange.",
+      "parsed_solution": [
+        [
+          "1. Qxf8+ and 2. Bxd8 wins the exchange."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "rn2k2r/pp3ppp/2pbp3/3pqb2/8/1B1P4/P1PBNPPP/R2Q1RK1 w",
       "code": "2W0105",
-      "solution": "1. Bf4 wins the bishop on d3 on move 2.",
+      "unparsed_solution": "1. Bf4 wins the bishop on d3 on move 2.",
+      "parsed_solution": [
+        [
+          "1. Bf4 wins the bishop on d3 on move 2."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "r3b3/1p3kP1/p1n1pP1Q/3p4/3P4/P1N1P3/1P3KP1/r7 w",
       "code": "2W0106",
-      "solution": "1. g8=Q+ or (g8=B+) Kxg8 2. Qxg7 mate.",
+      "unparsed_solution": "1. g8=Q+ or (g8=B+) Kxg8 2. Qxg7 mate.",
+      "parsed_solution": [
+        [
+          "1. g8=Q+ or (g8=B+) Kxg8 2. Qxg7 mate."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "Rr4k1/2p4p/2b2pp1/1rNp1p2/1q1P4/4P3/2P2PPP/R2Q2K1 w",
       "code": "2W0107",
-      "solution": "1. Rxb8+ Rxb8 2. Na6 forks two pieces.",
+      "unparsed_solution": "1. Rxb8+ Rxb8 2. Na6 forks two pieces.",
+      "parsed_solution": [
+        [
+          "1. Rxb8+ Rxb8 2. Na6 forks two pieces."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "8/pQ3pp1/3k2b1/3Pq2n/4p3/P3P3/B4RPP/6K1 w",
       "code": "2W0108",
-      "solution": "1. Qb8+ skewers the king. 2. Qxe5 wins",
+      "unparsed_solution": "1. Qb8+ skewers the king. 2. Qxe5 wins",
+      "parsed_solution": [
+        [
+          "1. Qb8+ skewers the king. 2. Qxe5 wins"
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "2r4k/3b1Qr1/pq2p3/1p2PR2/8/2p1n3/PP4PP/7K w",
       "code": "2W0109",
-      "solution": "1. Rh5+ Rh7 2. Qxh7 mate or Rxh7 mate",
+      "unparsed_solution": "1. Rh5+ Rh7 2. Qxh7 mate or Rxh7 mate",
+      "parsed_solution": [
+        [
+          "1. Rh5+ Rh7 2. Qxh7 mate or Rxh7 mate"
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "2Q5/P7/5R2/7p/7p/1P5P/6P1/3k2K1 w",
       "code": "2W0110",
-      "solution": "The fastest is 1. Rf2 Ke1 2. Qc1 mate.",
+      "unparsed_solution": "The fastest is 1. Rf2 Ke1 2. Qc1 mate.",
+      "parsed_solution": [
+        [
+          "The fastest is 1. Rf2 Ke1 2. Qc1 mate."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "rnb1k2r/3p1ppp/4pn2/2q5/8/P7/3NPPPP/R2QKBNR w",
       "code": "2W0111",
-      "solution": "1. Rc1 wins the bishop on c8 on move 2.",
+      "unparsed_solution": "1. Rc1 wins the bishop on c8 on move 2.",
+      "parsed_solution": [
+        [
+          "1. Rc1 wins the bishop on c8 on move 2."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "r3r3/ppp2B1k/1b1p2pB/4p3/1P2P3/P2P2Q1/2q2PK1/R4R2 w",
       "code": "2W0112",
-      "solution": "1. Qxg6+ Kh8 2. Qg7 mate (or Bg7 mate.)",
+      "unparsed_solution": "1. Qxg6+ Kh8 2. Qg7 mate (or Bg7 mate.)",
+      "parsed_solution": [
+        [
+          "1. Qxg6+ Kh8 2. Qg7 mate (or Bg7 mate.)"
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "r4r2/pb1p3R/5n1R/4Qpk1/2p5/2P5/PP4P1/2K5 w",
       "code": "2W0113",
-      "solution": "1. Rxf6!! now if Rxf6 then 2. Qg3 mate.",
+      "unparsed_solution": "1. Rxf6!! now if Rxf6 then 2. Qg3 mate.",
+      "parsed_solution": [
+        [
+          "1. Rxf6!! now if Rxf6 then 2. Qg3 mate."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "5rk1/1p3p1p/p1r1p1pP/q2pB3/1b1P4/2N2Q2/PPP2PP1/2KRR3 w",
       "code": "2W0114",
-      "solution": "Very simply 1. Qf6 forces mate on move 2.",
+      "unparsed_solution": "Very simply 1. Qf6 forces mate on move 2.",
+      "parsed_solution": [
+        [
+          "Very simply 1. Qf6 forces mate on move 2."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "3r2k1/1p4pp/p4p2/8/P3PBP1/5P2/brB4P/R5K1 w",
       "code": "2W0115",
-      "solution": "1. Rxa2! if Rxa2 2. Bb3+ wins material.",
+      "unparsed_solution": "1. Rxa2! if Rxa2 2. Bb3+ wins material.",
+      "parsed_solution": [
+        [
+          "1. Rxa2! if Rxa2 2. Bb3+ wins material."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "r4rk1/pb3p1p/4pQ2/1p2p2P/8/3B4/P5P1/6K1 w",
       "code": "2W0116",
-      "solution": "1. h6 and there is no stopping 2. Qg7 mate",
+      "unparsed_solution": "1. h6 and there is no stopping 2. Qg7 mate",
+      "parsed_solution": [
+        [
+          "1. h6 and there is no stopping 2. Qg7 mate"
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "r4Q2/p1q1b1r1/2pk2p1/3n3p/3P4/1P4PB/PB6/4RRK1 w",
       "code": "2W0117",
-      "solution": "1. Re6+ Kd7 2. Rxg6 mate. (or Rf6 mate.)",
+      "unparsed_solution": "1. Re6+ Kd7 2. Rxg6 mate. (or Rf6 mate.)",
+      "parsed_solution": [
+        [
+          "1. Re6+ Kd7 2. Rxg6 mate. (or Rf6 mate.)"
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "r2q1rk1/ppp2ppp/3p1n2/2bNp1B1/2B1P3/3P2QP/PP1K1PP1/n6R w",
       "code": "2W0118",
-      "solution": "1. Bxf6 threatens 2. Qxg7 mate and 2. Bxd8.",
+      "unparsed_solution": "1. Bxf6 threatens 2. Qxg7 mate and 2. Bxd8.",
+      "parsed_solution": [
+        [
+          "1. Bxf6 threatens 2. Qxg7 mate and 2. Bxd8."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "6rk/3pQ2p/4pp2/6B1/8/1b2KN2/2q1PPPP/5B1R w",
       "code": "2W0119",
-      "solution": "1. Bf6+ Rg7 2. Qf8 mate or 2. Qxg7 mate.",
+      "unparsed_solution": "1. Bf6+ Rg7 2. Qf8 mate or 2. Qxg7 mate.",
+      "parsed_solution": [
+        [
+          "1. Bf6+ Rg7 2. Qf8 mate or 2. Qxg7 mate."
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "r1b1r1k1/p1q3b1/2p2p2/2B1p3/4Nn2/5p2/PPP4Q/2KR1B1R w",
       "code": "2W0120",
-      "solution": "1. Qh7+ Kf7 2. Nd6+ forks the king and rook",
+      "unparsed_solution": "1. Qh7+ Kf7 2. Nd6+ forks the king and rook",
+      "parsed_solution": [
+        [
+          "1. Qh7+ Kf7 2. Nd6+ forks the king and rook"
+        ]
+      ],
       "page": "2w5.htm"
     },
     {
       "board": "1r3rk1/1p1b1pp1/p3p3/8/2P5/4BBQ1/Pq3PPP/R2R2K1 w",
       "code": "2W0121",
-      "solution": "1. Bd4 threatens the queen and 2. Qxg7 mate.",
+      "unparsed_solution": "1. Bd4 threatens the queen and 2. Qxg7 mate.",
+      "parsed_solution": [
+        [
+          "1. Bd4 threatens the queen and 2. Qxg7 mate."
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "r1bq1bnr/pppp1Q1p/3k4/4n3/2BP1p2/2N5/PPP3PP/R1B1K2R w",
       "code": "2W0122",
-      "solution": "The fastest is 1. Qd5+ Ke7 2. Qxe5 mate!!",
+      "unparsed_solution": "The fastest is 1. Qd5+ Ke7 2. Qxe5 mate!!",
+      "parsed_solution": [
+        [
+          "The fastest is 1. Qd5+ Ke7 2. Qxe5 mate!!"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "r1b1k2r/pp3p2/2p1p2p/4N1pQ/n2P4/2PB2q1/PP1R2P1/2K4R w",
       "code": "2W0123",
-      "solution": "1. Qxf7+ Kd8 2. Qf6+ forks the king and rook",
+      "unparsed_solution": "1. Qxf7+ Kd8 2. Qf6+ forks the king and rook",
+      "parsed_solution": [
+        [
+          "1. Qxf7+ Kd8 2. Qf6+ forks the king and rook"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "r2k3r/p2n1ppp/1q1Npnb1/8/pB6/3P2P1/2P2PBP/R2Q1RK1 w",
       "code": "2W0124",
-      "solution": "1. Ba5 Qxa5 2. Nb7+ forks the king and queen",
+      "unparsed_solution": "1. Ba5 Qxa5 2. Nb7+ forks the king and queen",
+      "parsed_solution": [
+        [
+          "1. Ba5 Qxa5 2. Nb7+ forks the king and queen"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "4kr2/1pRrq1b1/1B2Qpp1/3R4/4P3/8/P4PPP/6K1 w",
       "code": "2W0125",
-      "solution": "1. Rc8+ Rd8 2. either rook takes d8 and mate",
+      "unparsed_solution": "1. Rc8+ Rd8 2. either rook takes d8 and mate",
+      "parsed_solution": [
+        [
+          "1. Rc8+ Rd8 2. either rook takes d8 and mate"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "8/3k4/8/1p1p2R1/2pP2P1/2q5/5P1P/R5K1 w",
       "code": "2W0126",
-      "solution": "1. Ra7+ mates with the other rook on move 2.",
+      "unparsed_solution": "1. Ra7+ mates with the other rook on move 2.",
+      "parsed_solution": [
+        [
+          "1. Ra7+ mates with the other rook on move 2."
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "r6r/pb2k1b1/1p2n3/1N1pPB1p/1p3P2/4B3/P5PP/R1R3K1 w",
       "code": "2W0127",
-      "solution": "1. Bxe6 Kxe6 2. Nc7+ forks the king and rook.",
+      "unparsed_solution": "1. Bxe6 Kxe6 2. Nc7+ forks the king and rook.",
+      "parsed_solution": [
+        [
+          "1. Bxe6 Kxe6 2. Nc7+ forks the king and rook."
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "6Q1/8/8/2R5/p4k2/8/P3K3/8 w",
       "code": "2W0128",
-      "solution": "the simple way is 1. Qg5+ and then 2. Qg4 mate",
+      "unparsed_solution": "the simple way is 1. Qg5+ and then 2. Qg4 mate",
+      "parsed_solution": [
+        [
+          "the simple way is 1. Qg5+ and then 2. Qg4 mate"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "6k1/1ppb2p1/p1np1pN1/8/8/3B4/PPP3PP/4B1K1 w",
       "code": "2W0129",
-      "solution": "1. Bc4+ Kh7 2. Nf8+ forks the king and bishop.",
+      "unparsed_solution": "1. Bc4+ Kh7 2. Nf8+ forks the king and bishop.",
+      "parsed_solution": [
+        [
+          "1. Bc4+ Kh7 2. Nf8+ forks the king and bishop."
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "2r5/1p1b3p/p1n1k1pP/1BBRp3/4P3/2P5/P1P3P1/6K1 w",
       "code": "2W0130",
-      "solution": "1. Rd6+ Kd7 2. Rxc6+ or 1. ... Kf7 2. Rxd7+",
+      "unparsed_solution": "1. Rd6+ Kd7 2. Rxc6+ or 1. ... Kf7 2. Rxd7+",
+      "parsed_solution": [
+        [
+          "1. Rd6+ Kd7 2. Rxc6+ or 1. ... Kf7 2. Rxd7+"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "r1k2b1r/p2qnNpp/2p2n2/8/4PB2/5N2/PPP1Q1PP/R3K2R w",
       "code": "2W0131",
-      "solution": "1. Qa6+ Qb7 2. Nd6+ forking the king and Queen.",
+      "unparsed_solution": "1. Qa6+ Qb7 2. Nd6+ forking the king and Queen.",
+      "parsed_solution": [
+        [
+          "1. Qa6+ Qb7 2. Nd6+ forking the king and Queen."
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "r1b4k/ppp2Qb1/2np3q/4p1N1/4P3/3P4/PPP2PPP/R3K2R w",
       "code": "2W0132",
-      "solution": "1. Qe8+ Bf8 2. Nf7+ forking the king and queen.",
+      "unparsed_solution": "1. Qe8+ Bf8 2. Nf7+ forking the king and queen.",
+      "parsed_solution": [
+        [
+          "1. Qe8+ Bf8 2. Nf7+ forking the king and queen."
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "2kr4/ppp2p1p/8/n7/1b6/3B1N1P/PPP2PP1/2KR4 w",
       "code": "2W0133",
-      "solution": "1. Bf5+ wins the rook or allows Kb8 2. Rxd8 mate",
+      "unparsed_solution": "1. Bf5+ wins the rook or allows Kb8 2. Rxd8 mate",
+      "parsed_solution": [
+        [
+          "1. Bf5+ wins the rook or allows Kb8 2. Rxd8 mate"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "3kn2Q/pp1r1r1P/2pqb1p1/3p1p2/1P3P2/P2PP3/1B2KP2/5BR1 w",
       "code": "2W0134",
-      "solution": "1. Qxe8+!! and 2. h8=Q+ wins a knight for a pawn",
+      "unparsed_solution": "1. Qxe8+!! and 2. h8=Q+ wins a knight for a pawn",
+      "parsed_solution": [
+        [
+          "1. Qxe8+!! and 2. h8=Q+ wins a knight for a pawn"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "3rr2k/2pq1p2/1pQp2p1/p6p/3P4/4R2P/PPP2PP1/4R1K1 w",
       "code": "2W0135",
-      "solution": "Both 1. Qxd7 an 1. Rxe8+ win material on move 2.",
+      "unparsed_solution": "Both 1. Qxd7 an 1. Rxe8+ win material on move 2.",
+      "parsed_solution": [
+        [
+          "Both 1. Qxd7 an 1. Rxe8+ win material on move 2."
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "2k5/8/pB1R4/2Kp3r/P1p5/8/8/4R3 w",
       "code": "2W0136",
-      "solution": "1. Re8+ Kb7 2. Rd7 mate Rd8+ first also works",
+      "unparsed_solution": "1. Re8+ Kb7 2. Rd7 mate Rd8+ first also works",
+      "parsed_solution": [
+        [
+          "1. Re8+ Kb7 2. Rd7 mate Rd8+ first also works"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "r3kb1r/p2qnppp/2pp1n2/1N6/4PB2/5N2/PPP1Q1PP/R3K2R w",
       "code": "2W0137",
-      "solution": "1. Nxd6+ Kd8 2. Nxf7+ forking the king and rook.",
+      "unparsed_solution": "1. Nxd6+ Kd8 2. Nxf7+ forking the king and rook.",
+      "parsed_solution": [
+        [
+          "1. Nxd6+ Kd8 2. Nxf7+ forking the king and rook."
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "5k2/2pq1pnp/2Np2p1/p2P4/3QPp2/7P/P1P2KP1/1R6 w",
       "code": "2W0138",
-      "solution": "1. Rb8+ and now 2. Qe8 Rxe8+ or 2. Ne8 Qh8 mate.",
+      "unparsed_solution": "1. Rb8+ and now 2. Qe8 Rxe8+ or 2. Ne8 Qh8 mate.",
+      "parsed_solution": [
+        [
+          "1. Rb8+ and now 2. Qe8 Rxe8+ or 2. Ne8 Qh8 mate."
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "2r5/5p1p/R3p1p1/2bp1Nk1/6N1/1q1BPP2/3n2PP/6KR w",
       "code": "2W0139",
-      "solution": "1. h4+ Kh5 2. Nf6 mate or Ng3 mate or Ng7 mate!",
+      "unparsed_solution": "1. h4+ Kh5 2. Nf6 mate or Ng3 mate or Ng7 mate!",
+      "parsed_solution": [
+        [
+          "1. h4+ Kh5 2. Nf6 mate or Ng3 mate or Ng7 mate!"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "r1bqkb1r/pp2pppp/2np4/2p5/3Pn3/2P2N2/PP2BPPP/RNBQK2R w",
       "code": "2W0140",
-      "solution": "1. d5! Ne5 2. Qa4+ forks the king and the knight",
+      "unparsed_solution": "1. d5! Ne5 2. Qa4+ forks the king and the knight",
+      "parsed_solution": [
+        [
+          "1. d5! Ne5 2. Qa4+ forks the king and the knight"
+        ]
+      ],
       "page": "2w6.htm"
     },
     {
       "board": "r1bQ4/1k1n4/pp6/3pp3/3N1q2/2PB4/PP4P1/1K1R4 w",
       "code": "2W0141",
-      "solution": "1. Ne6!! threatens 2. Qc7 mate and the black queen",
+      "unparsed_solution": "1. Ne6!! threatens 2. Qc7 mate and the black queen",
+      "parsed_solution": [
+        [
+          "1. Ne6!! threatens 2. Qc7 mate and the black queen"
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "8/5qpk/1Q2r1Np/5p1K/8/P7/1P4P1/8 w",
       "code": "2W0142",
-      "solution": "1. Qxe6!!! Qxe6 2. Nf8+ forks the king and queen.",
+      "unparsed_solution": "1. Qxe6!!! Qxe6 2. Nf8+ forks the king and queen.",
+      "parsed_solution": [
+        [
+          "1. Qxe6!!! Qxe6 2. Nf8+ forks the king and queen."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "rnbq3r/ppppk2p/5n2/7Q/3PPR2/2P5/P1P3pP/R1B3K1 w",
       "code": "2W0143",
-      "solution": "1. Rxf6 and now not 1. ... Kxf6 because of 2. Bg5+",
+      "unparsed_solution": "1. Rxf6 and now not 1. ... Kxf6 because of 2. Bg5+",
+      "parsed_solution": [
+        [
+          "1. Rxf6 and now not 1. ... Kxf6 because of 2. Bg5+"
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "r5k1/2Bnqpbp/2R3p1/p2Q4/1p2r3/5N1P/Nn3PP1/5RK1 w",
       "code": "2W0144",
-      "solution": "1. Rd6 with the dual threat of 2. Rxd7 and 2. Qxa8+",
+      "unparsed_solution": "1. Rd6 with the dual threat of 2. Rxd7 and 2. Qxa8+",
+      "parsed_solution": [
+        [
+          "1. Rd6 with the dual threat of 2. Rxd7 and 2. Qxa8+"
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "8/3b1R1p/p2k4/1p6/6r1/1B1K2P1/PPP4P/4R3 w",
       "code": "2W0145",
-      "solution": "1. Rxd7+ Kxd7 2. Be6+ forks the king and the rook.",
+      "unparsed_solution": "1. Rxd7+ Kxd7 2. Be6+ forks the king and the rook.",
+      "parsed_solution": [
+        [
+          "1. Rxd7+ Kxd7 2. Be6+ forks the king and the rook."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "rnbqkb1r/pppp1ppp/5n2/4N3/8/8/PPPPQPPP/RNB1KB1R w",
       "code": "2W0146",
-      "solution": "1. Nc6+ double check wins the black queen on move 2.",
+      "unparsed_solution": "1. Nc6+ double check wins the black queen on move 2.",
+      "parsed_solution": [
+        [
+          "1. Nc6+ double check wins the black queen on move 2."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "r1b1r1k1/pp3qp1/2p1pnQp/8/2PP3N/1P1BB1P1/P4PP1/R3R1K1 w",
       "code": "2W0147",
-      "solution": "1. Qxf7+ Kxf7 2. Bg6+ skewers the king to the rook.",
+      "unparsed_solution": "1. Qxf7+ Kxf7 2. Bg6+ skewers the king to the rook.",
+      "parsed_solution": [
+        [
+          "1. Qxf7+ Kxf7 2. Bg6+ skewers the king to the rook."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "2r4r/pp4pp/1p6/2p3R1/5P2/4B1Pk/PPP1K3/3R4 w",
       "code": "2W0148",
-      "solution": "the easy way is 1. Kf2! or Kf3 and then 2. Rh1 mate.",
+      "unparsed_solution": "the easy way is 1. Kf2! or Kf3 and then 2. Rh1 mate.",
+      "parsed_solution": [
+        [
+          "the easy way is 1. Kf2! or Kf3 and then 2. Rh1 mate."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "rnb1rb1k/pp3Q2/2p3pP/3p4/q2P3P/2PB4/1P1BNP2/1K1R3R w",
       "code": "2W0149",
-      "solution": "1. Bxg6 threatens Qh7 mate. If Re7 then 2. Qxf8 mate",
+      "unparsed_solution": "1. Bxg6 threatens Qh7 mate. If Re7 then 2. Qxf8 mate",
+      "parsed_solution": [
+        [
+          "1. Bxg6 threatens Qh7 mate. If Re7 then 2. Qxf8 mate"
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "r2k1bnr/p1q1p3/2P1Qp1p/6pP/b7/1p3NN1/1P1B1PP1/2R2K1R w",
       "code": "2W0150",
-      "solution": "1. Ba5 and 2. Bxc7+. If 1. ... Qxa5 2. Qd7 mate.",
+      "unparsed_solution": "1. Ba5 and 2. Bxc7+. If 1. ... Qxa5 2. Qd7 mate.",
+      "parsed_solution": [
+        [
+          "1. Ba5 and 2. Bxc7+. If 1. ... Qxa5 2. Qd7 mate."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "r7/1p1n2k1/pn1pBpp1/3P4/3BPP2/2P5/P5K1/7R w",
       "code": "2W0151",
-      "solution": "1. Rb1 and one of the knights will be lost on move 2.",
+      "unparsed_solution": "1. Rb1 and one of the knights will be lost on move 2.",
+      "parsed_solution": [
+        [
+          "1. Rb1 and one of the knights will be lost on move 2."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "4rkB1/5rqP/1p3RQ1/p2pp3/8/2P5/PP1N2P1/7K w",
       "code": "2W0152",
-      "solution": "1. Rxf7+ Qxf7 2. Qxf7 mate. Also 1. Qxf7+ works too.",
+      "unparsed_solution": "1. Rxf7+ Qxf7 2. Qxf7 mate. Also 1. Qxf7+ works too.",
+      "parsed_solution": [
+        [
+          "1. Rxf7+ Qxf7 2. Qxf7 mate. Also 1. Qxf7+ works too."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "1k2r3/pp6/2p2n2/5p2/5q1P/3Q1P2/PPP5/K3R3 w",
       "code": "2W0153",
-      "solution": "1. Rxe8+ and if either Nxe8 or Kc7 then 2. Qd8 mate.",
+      "unparsed_solution": "1. Rxe8+ and if either Nxe8 or Kc7 then 2. Qd8 mate.",
+      "parsed_solution": [
+        [
+          "1. Rxe8+ and if either Nxe8 or Kc7 then 2. Qd8 mate."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "r1b2rk1/p1qpbp2/1pn1p1P1/3pP3/3P4/2PB4/PP3PP1/R1BQK2R w",
       "code": "2W0154",
-      "solution": "1. Qh5 threatening both Qh7 mate and Qh8 mate on move 2.",
+      "unparsed_solution": "1. Qh5 threatening both Qh7 mate and Qh8 mate on move 2.",
+      "parsed_solution": [
+        [
+          "1. Qh5 threatening both Qh7 mate and Qh8 mate on move 2."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "3R4/p3rpkp/1pQ2q1b/4N3/4Pp2/1P4P1/P1P4P/6K1 w",
       "code": "2W0155",
-      "solution": "1. Rg8+ removes the defend on the black queen on move 2.",
+      "unparsed_solution": "1. Rg8+ removes the defend on the black queen on move 2.",
+      "parsed_solution": [
+        [
+          "1. Rg8+ removes the defend on the black queen on move 2."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "4R1bk/pp4p1/3p4/6NK/3P4/8/PrP3PP/8 w",
       "code": "2W0156",
-      "solution": "In a bullet game Black over looked 1. Kg6 and 2. Nf7 mate.",
+      "unparsed_solution": "In a bullet game Black over looked 1. Kg6 and 2. Nf7 mate.",
+      "parsed_solution": [
+        [
+          "In a bullet game Black over looked 1. Kg6 and 2. Nf7 mate."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "3k3q/2p5/4R3/5Q2/1b1pP3/p2P4/1rP2P2/K7 w",
       "code": "2W0157",
-      "solution": "1. Qd5+ and then 2. Qa8+ skewers the King and Queen.",
+      "unparsed_solution": "1. Qd5+ and then 2. Qa8+ skewers the King and Queen.",
+      "parsed_solution": [
+        [
+          "1. Qd5+ and then 2. Qa8+ skewers the King and Queen."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "r2n4/1p4Q1/p1q5/8/2k5/2N3PP/P1P4K/4R3 w",
       "code": "2W0158",
-      "solution": "The easy way is 1. Re4+ and now if 1. ... Kc5 2. Qd4 mate.",
+      "unparsed_solution": "The easy way is 1. Re4+ and now if 1. ... Kc5 2. Qd4 mate.",
+      "parsed_solution": [
+        [
+          "The easy way is 1. Re4+ and now if 1. ... Kc5 2. Qd4 mate."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "1KQ5/7r/1k5P/8/8/8/8/8 w",
       "code": "2W0159",
-      "solution": "1. Qe6+ king moves and 2. Qf5+ forks the king and the rook.",
+      "unparsed_solution": "1. Qe6+ king moves and 2. Qf5+ forks the king and the rook.",
+      "parsed_solution": [
+        [
+          "1. Qe6+ king moves and 2. Qf5+ forks the king and the rook."
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "5r2/5pk1/3p2pp/3P4/3bP3/1q1B4/3Q1PPP/3R2K1 w",
       "code": "2W0160",
-      "solution": "1. Bc2 and 2. Qxd4+ Not much good is 1. ... Qb2 2. Qxd4+",
+      "unparsed_solution": "1. Bc2 and 2. Qxd4+ Not much good is 1. ... Qb2 2. Qxd4+",
+      "parsed_solution": [
+        [
+          "1. Bc2 and 2. Qxd4+ Not much good is 1. ... Qb2 2. Qxd4+"
+        ]
+      ],
       "page": "2w7.htm"
     },
     {
       "board": "8/3R4/P4k2/1P3P2/8/8/q2B1KB1/8 w",
       "code": "2W0161",
-      "solution": "Simply 1. a7 and black is helpless to prevent 2. a8=Q",
+      "unparsed_solution": "Simply 1. a7 and black is helpless to prevent 2. a8=Q",
+      "parsed_solution": [
+        [
+          "Simply 1. a7 and black is helpless to prevent 2. a8=Q"
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "3R4/ppp1p3/1k4PB/5p2/8/Q4P2/P1K5/6R1 w",
       "code": "2W0162",
-      "solution": "1. Rb1+ king moves and 2. Qc3 mate! Is there another way?",
+      "unparsed_solution": "1. Rb1+ king moves and 2. Qc3 mate! Is there another way?",
+      "parsed_solution": [
+        [
+          "1. Rb1+ king moves and 2. Qc3 mate! Is there another way?"
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "1rb2rk1/p4p2/2pp2pB/8/3p2PP/1P6/PqP1B3/2RK1Q1R w",
       "code": "2W0163",
-      "solution": "1. Qf6 forces mate unless black plays 1. ... d4 allows 2. Qxb2",
+      "unparsed_solution": "1. Qf6 forces mate unless black plays 1. ... d4 allows 2. Qxb2",
+      "parsed_solution": [
+        [
+          "1. Qf6 forces mate unless black plays 1. ... d4 allows 2. Qxb2"
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "4r1k1/ppr2p1p/2b3pB/3p4/5Q2/q4N2/1R3PPP/2R3K1 w",
       "code": "2W0164",
-      "solution": "1. Qf6 threatening mate on g7. 1. ... Qf8 2. Bxf8 wins",
+      "unparsed_solution": "1. Qf6 threatening mate on g7. 1. ... Qf8 2. Bxf8 wins",
+      "parsed_solution": [
+        [
+          "1. Qf6 threatening mate on g7. 1. ... Qf8 2. Bxf8 wins"
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "8/4BQ1p/4p1p1/4b3/Pp2k3/8/1Pnq1PPP/1R4K1 w",
       "code": "2W0165",
-      "solution": "1. Qf3+ Kd4 (forced) 2. Rd1 pins the Queen to the king.",
+      "unparsed_solution": "1. Qf3+ Kd4 (forced) 2. Rd1 pins the Queen to the king.",
+      "parsed_solution": [
+        [
+          "1. Qf3+ Kd4 (forced) 2. Rd1 pins the Queen to the king."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "r2q2Q1/ppp1kp1N/8/b3PB2/P2P4/2P5/2P3PP/R1B3K1 w",
       "code": "2W0166",
-      "solution": "1. Bg5+ f6 2. Bxf6 mate. (1. Ba3+ works too but takes longer.)",
+      "unparsed_solution": "1. Bg5+ f6 2. Bxf6 mate. (1. Ba3+ works too but takes longer.)",
+      "parsed_solution": [
+        [
+          "1. Bg5+ f6 2. Bxf6 mate. (1. Ba3+ works too but takes longer.)"
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "r6r/4k3/p2qpn2/1p4Qp/3PB1p1/2P3P1/5PP1/R4RK1 w",
       "code": "2W0167",
-      "solution": "Although 1. Bxa8 is winning, better is 1. Qg7+ and 2. Qxh8+",
+      "unparsed_solution": "Although 1. Bxa8 is winning, better is 1. Qg7+ and 2. Qxh8+",
+      "parsed_solution": [
+        [
+          "Although 1. Bxa8 is winning, better is 1. Qg7+ and 2. Qxh8+"
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "krrn4/p6p/4p3/3qPp1Q/N1p2P2/4B3/2P3PP/R5K1 w",
       "code": "2W0168",
-      "solution": "1. Nb6+ creates a nice fork. Rxb6 2. Bxb6 with an attack still.",
+      "unparsed_solution": "1. Nb6+ creates a nice fork. Rxb6 2. Bxb6 with an attack still.",
+      "parsed_solution": [
+        [
+          "1. Nb6+ creates a nice fork. Rxb6 2. Bxb6 with an attack still."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "r1b1k2r/pp3R2/2pqp2p/4N1pQ/n2P4/2PB2P1/PP1R2P1/2K5 w",
       "code": "2W0169",
-      "solution": "1. Rd7+ Kf8 2. Qf7 mate or 1. Rf8+!! and 2. Qf7 mate!",
+      "unparsed_solution": "1. Rd7+ Kf8 2. Qf7 mate or 1. Rf8+!! and 2. Qf7 mate!",
+      "parsed_solution": [
+        [
+          "1. Rd7+ Kf8 2. Qf7 mate or 1. Rf8+!! and 2. Qf7 mate!"
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "8/kp5R/2p5/p1K5/P7/8/8/8 w",
       "code": "2W0170",
-      "solution": "1. Rh8 and black must give up a pawn or allow checkmate on move 2.",
+      "unparsed_solution": "1. Rh8 and black must give up a pawn or allow checkmate on move 2.",
+      "parsed_solution": [
+        [
+          "1. Rh8 and black must give up a pawn or allow checkmate on move 2."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "R7/7p/3k2p1/2p5/2Pp1PnP/3P2P1/4K3/8 w",
       "code": "2W0171",
-      "solution": "1. Ra6+ and then 2. Ra7+ skewers the king to the pawn on h7.",
+      "unparsed_solution": "1. Ra6+ and then 2. Ra7+ skewers the king to the pawn on h7.",
+      "parsed_solution": [
+        [
+          "1. Ra6+ and then 2. Ra7+ skewers the king to the pawn on h7."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "r3n1r1/2qN1Qpk/p1pp3p/8/4P3/1P3P2/P1P3PP/R4R1K w",
       "code": "2W0172",
-      "solution": "1. Nf6+!! if 1. ... Kh8 2. Qxg8 mate. If 1. ... Nxf6 2. Qxc7 wins",
+      "unparsed_solution": "1. Nf6+!! if 1. ... Kh8 2. Qxg8 mate. If 1. ... Nxf6 2. Qxc7 wins",
+      "parsed_solution": [
+        [
+          "1. Nf6+!! if 1. ... Kh8 2. Qxg8 mate. If 1. ... Nxf6 2. Qxc7 wins"
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "4Q3/6k1/3pR3/r5q1/8/5P2/P5PP/7K w",
       "code": "2W0173",
-      "solution": "1. Qd7+ and now black gives up his queen or allows Kf8 2. Re8 mate.",
+      "unparsed_solution": "1. Qd7+ and now black gives up his queen or allows Kf8 2. Re8 mate.",
+      "parsed_solution": [
+        [
+          "1. Qd7+ and now black gives up his queen or allows Kf8 2. Re8 mate."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "r1bq3k/pp2p1bp/3p2p1/3P1rN1/8/4B3/P5PP/1R1Q1RK1 w",
       "code": "2W0174",
-      "solution": "1. Rxf5 and now if black recaptures the rook then 2. Nf7+ wins.",
+      "unparsed_solution": "1. Rxf5 and now if black recaptures the rook then 2. Nf7+ wins.",
+      "parsed_solution": [
+        [
+          "1. Rxf5 and now if black recaptures the rook then 2. Nf7+ wins."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "r1r2bk1/3n1p1p/1q2bnp1/pN1p4/1p2P3/4BN2/PPQ1BPPP/R4RK1 w",
       "code": "2W0175",
-      "solution": "1. Qxc8 Rxc8 2. Bxb6 Nxb6 wins the exchange. if 1. ... Qxe3 2. Qxa8",
+      "unparsed_solution": "1. Qxc8 Rxc8 2. Bxb6 Nxb6 wins the exchange. if 1. ... Qxe3 2. Qxa8",
+      "parsed_solution": [
+        [
+          "1. Qxc8 Rxc8 2. Bxb6 Nxb6 wins the exchange. if 1. ... Qxe3 2. Qxa8"
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "5rk1/1b2pp1p/1n1p1np1/2pP4/8/1PQ1N1P1/qB2PPBP/3R2K1 w",
       "code": "2W0176",
-      "solution": "1. Ra1 traps the queen. No good is 1. ... Ne4 because of 2. Qg7 mate.",
+      "unparsed_solution": "1. Ra1 traps the queen. No good is 1. ... Ne4 because of 2. Qg7 mate.",
+      "parsed_solution": [
+        [
+          "1. Ra1 traps the queen. No good is 1. ... Ne4 because of 2. Qg7 mate."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "r6r/2p1bp1p/1nN2k2/1B1p3b/PP2P3/5p2/6PP/R1B2RK1 w",
       "code": "2W0177",
-      "solution": "1. Bb2+ d4 2. Bxd4+ skewers the King on f6 with the rook on h8.",
+      "unparsed_solution": "1. Bb2+ d4 2. Bxd4+ skewers the King on f6 with the rook on h8.",
+      "parsed_solution": [
+        [
+          "1. Bb2+ d4 2. Bxd4+ skewers the King on f6 with the rook on h8."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "1Q6/7p/8/N7/1p1nKP2/2k5/6PP/8 w",
       "code": "2W0178",
-      "solution": "Either 1. Qh8! or queen to the c file check wins the knight on move 2.",
+      "unparsed_solution": "Either 1. Qh8! or queen to the c file check wins the knight on move 2.",
+      "parsed_solution": [
+        [
+          "Either 1. Qh8! or queen to the c file check wins the knight on move 2."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "1r1qk1nr/p5pp/2ppb3/4pp2/QPn5/P1P1PN2/5PPP/R1B1KB1R w",
       "code": "2W0179",
-      "solution": "1. Bxc4 (easier than Qxc6+) Bxc4 2. Qxc6+ wins the bishop on c4.",
+      "unparsed_solution": "1. Bxc4 (easier than Qxc6+) Bxc4 2. Qxc6+ wins the bishop on c4.",
+      "parsed_solution": [
+        [
+          "1. Bxc4 (easier than Qxc6+) Bxc4 2. Qxc6+ wins the bishop on c4."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "2r1r1k1/1p1n1ppp/p1n5/q3P3/1N3P2/P7/2PN1QPP/R4RK1 w",
       "code": "2W0180",
-      "solution": "1. Nc4 attacking the queen and then 2. Nd6 forking the two rooks.",
+      "unparsed_solution": "1. Nc4 attacking the queen and then 2. Nd6 forking the two rooks.",
+      "parsed_solution": [
+        [
+          "1. Nc4 attacking the queen and then 2. Nd6 forking the two rooks."
+        ]
+      ],
       "page": "2w8.htm"
     },
     {
       "board": "2r2rk1/1bp2pp1/p7/7p/3R3P/1PQ1PPq1/PB4P1/5RK1 w",
       "code": "2W0181",
-      "solution": "1. Rg4!! now the queen is threatened and so is Qxg7 mate on move 2.",
+      "unparsed_solution": "1. Rg4!! now the queen is threatened and so is Qxg7 mate on move 2.",
+      "parsed_solution": [
+        [
+          "1. Rg4!! now the queen is threatened and so is Qxg7 mate on move 2."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "r1r3k1/1p1q1pbp/3p4/pN2pn2/2Pp4/P2P3P/1P1BB1P1/1R1Q2K1 w",
       "code": "2W0182",
-      "solution": "1. Bg4 and black is not going to be able to avoid 2. Qf3 winning the knight",
+      "unparsed_solution": "1. Bg4 and black is not going to be able to avoid 2. Qf3 winning the knight",
+      "parsed_solution": [
+        [
+          "1. Bg4 and black is not going to be able to avoid 2. Qf3 winning the knight"
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "3bk3/p4p1R/3P2p1/2pNn3/8/P7/r4PP1/1R3K2 w",
       "code": "2W0183",
-      "solution": "1. Re1 pins the knight to the king. If 1. ... f6 2. f4 wins the knight",
+      "unparsed_solution": "1. Re1 pins the knight to the king. If 1. ... f6 2. f4 wins the knight",
+      "parsed_solution": [
+        [
+          "1. Re1 pins the knight to the king. If 1. ... f6 2. f4 wins the knight"
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "8/2k5/p4QK1/N7/8/4B3/PPP3P1/8 w",
       "code": "2W0184",
-      "solution": "1. Qc6+ Kb8 (If Kd8 2. Bg5 mate!) 2. Qb7++",
+      "unparsed_solution": "1. Qc6+ Kb8 (If Kd8 2. Bg5 mate!) 2. Qb7++",
+      "parsed_solution": [
+        [
+          "1. Qc6+ Kb8 (If Kd8 2. Bg5 mate!) 2. Qb7++"
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "8/7Q/3p1k1q/r7/5PP1/8/P6P/4R2K w",
       "code": "2W0185",
-      "solution": "never mind Qxh6+. Instead 1. Qe7+ Kg6 and now either 2. f5 mate or 2. Re6 mate.",
+      "unparsed_solution": "never mind Qxh6+. Instead 1. Qe7+ Kg6 and now either 2. f5 mate or 2. Re6 mate.",
+      "parsed_solution": [
+        [
+          "never mind Qxh6+. Instead 1. Qe7+ Kg6 and now either 2. f5 mate or 2. Re6 mate."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "rnbqkbnr/p3pppp/2p5/1p6/P1pP4/4P3/1P3PPP/RNBQKBNR w",
       "code": "2W0186",
-      "solution": "1. axb5 wins at least a pawn. If 1. ... cxb5 2. Qf3 wins the rook on a8.",
+      "unparsed_solution": "1. axb5 wins at least a pawn. If 1. ... cxb5 2. Qf3 wins the rook on a8.",
+      "parsed_solution": [
+        [
+          "1. axb5 wins at least a pawn. If 1. ... cxb5 2. Qf3 wins the rook on a8."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "r5rk/pb1qbp2/1pn1p3/8/3PBB2/P1PQ4/4NPPP/R4RK1 w",
       "code": "2W0187",
-      "solution": "1. Qh3+ kg7 (Black can play Bh4 but it makes no difference) 2. Qh6 mate.",
+      "unparsed_solution": "1. Qh3+ kg7 (Black can play Bh4 but it makes no difference) 2. Qh6 mate.",
+      "parsed_solution": [
+        [
+          "1. Qh3+ kg7 (Black can play Bh4 but it makes no difference) 2. Qh6 mate."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "r7/p3Q2p/3p2p1/2nP1p2/3kN3/3q4/P4PPP/1R4K1 w",
       "code": "2W0188",
-      "solution": "1. Rb4+ and now 1. ... Qc4 gives up the Queen or 1. ... Kxd5 2. Qxd6 mate!",
+      "unparsed_solution": "1. Rb4+ and now 1. ... Qc4 gives up the Queen or 1. ... Kxd5 2. Qxd6 mate!",
+      "parsed_solution": [
+        [
+          "1. Rb4+ and now 1. ... Qc4 gives up the Queen or 1. ... Kxd5 2. Qxd6 mate!"
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "3k4/N1pb4/1p6/2P4B/1P4Pb/7p/5P1P/4R1K1 w",
       "code": "2W0189",
-      "solution": "1. c6 and the bishop can't move to f5 because or c8 because of 2. Re8 mate.",
+      "unparsed_solution": "1. c6 and the bishop can't move to f5 because or c8 because of 2. Re8 mate.",
+      "parsed_solution": [
+        [
+          "1. c6 and the bishop can't move to f5 because or c8 because of 2. Re8 mate."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "r2q1bnr/pp2kppp/8/1BpP3b/1n6/5N1P/PP3PP1/RNBQK2R w",
       "code": "2W0190",
-      "solution": "1. Qe2 Kf6 (if Kd6 then Qe5 mate) 2. Bg5+ skewers the king and wins the queen",
+      "unparsed_solution": "1. Qe2 Kf6 (if Kd6 then Qe5 mate) 2. Bg5+ skewers the king and wins the queen",
+      "parsed_solution": [
+        [
+          "1. Qe2 Kf6 (if Kd6 then Qe5 mate) 2. Bg5+ skewers the king and wins the queen"
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "6k1/1R5p/4pp2/3pr3/4N3/5PP1/PP3K1P/8 w",
       "code": "2W0191",
-      "solution": "1. Nxf6+ Kf8 2. Nd7+ forks the King and Rook. Or 1. .... Kh8 2. Rxh7 mate",
+      "unparsed_solution": "1. Nxf6+ Kf8 2. Nd7+ forks the King and Rook. Or 1. .... Kh8 2. Rxh7 mate",
+      "parsed_solution": [
+        [
+          "1. Nxf6+ Kf8 2. Nd7+ forks the King and Rook. Or 1. .... Kh8 2. Rxh7 mate"
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "2r1r2k/p4pp1/2QPp2p/2p5/2q2P2/B1P5/P5PP/1R4K1 w",
       "code": "2W0192",
-      "solution": "1. d7 and white is going to Queen a pawn. 1. ... Rxc6 2. dxe8=Q wins a rook",
+      "unparsed_solution": "1. d7 and white is going to Queen a pawn. 1. ... Rxc6 2. dxe8=Q wins a rook",
+      "parsed_solution": [
+        [
+          "1. d7 and white is going to Queen a pawn. 1. ... Rxc6 2. dxe8=Q wins a rook"
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "8/2P1k3/1r1Nb1p1/pp1pP3/6P1/1P5P/P7/2R3K1 w",
       "code": "2W0193",
-      "solution": "Cute is 1. c8=N+ but just as good if not better is 1. c8=Q Bxc8 2. Nxc8+ with a fork",
+      "unparsed_solution": "Cute is 1. c8=N+ but just as good if not better is 1. c8=Q Bxc8 2. Nxc8+ with a fork",
+      "parsed_solution": [
+        [
+          "Cute is 1. c8=N+ but just as good if not better is 1. c8=Q Bxc8 2. Nxc8+ with a fork"
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "r1bq1rk1/2pp1pp1/pb3nQn/1p2P1N1/3PN3/1B6/PP3PPP/R4RK1 w",
       "code": "2W0194",
-      "solution": "1. Nxf6+ and 2. Qh7 mate. Also 1. exf6 works because it threatens mate on g7 as well.",
+      "unparsed_solution": "1. Nxf6+ and 2. Qh7 mate. Also 1. exf6 works because it threatens mate on g7 as well.",
+      "parsed_solution": [
+        [
+          "1. Nxf6+ and 2. Qh7 mate. Also 1. exf6 works because it threatens mate on g7 as well."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "5b1r/6p1/pkp4p/2q5/5Q2/P5P1/1PP2P1P/3R2K1 w",
       "code": "2W0195",
-      "solution": "Thanks to kabal for showming me 1. Qb8+ Ka5 2. b4+ forking the king and queen.",
+      "unparsed_solution": "Thanks to kabal for showming me 1. Qb8+ Ka5 2. b4+ forking the king and queen.",
+      "parsed_solution": [
+        [
+          "Thanks to kabal for showming me 1. Qb8+ Ka5 2. b4+ forking the king and queen."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "r1b2k2/1p4p1/1q4B1/1p1pPp2/5Q2/P4N2/1P3P2/2R1K3 w",
       "code": "2W0196",
-      "solution": "1. Rxc8+ Rxc8 2. Qxf5+ forks the king and rook and it gives white a nice position",
+      "unparsed_solution": "1. Rxc8+ Rxc8 2. Qxf5+ forks the king and rook and it gives white a nice position",
+      "parsed_solution": [
+        [
+          "1. Rxc8+ Rxc8 2. Qxf5+ forks the king and rook and it gives white a nice position"
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "2r5/1b1k1ppp/1P2p3/PNnp4/5P2/8/4B1PP/2R3K1 w",
       "code": "2W0197",
-      "solution": "1. Na7 and the attacked rook must stay in place or lose the knight on c5 on move 2.",
+      "unparsed_solution": "1. Na7 and the attacked rook must stay in place or lose the knight on c5 on move 2.",
+      "parsed_solution": [
+        [
+          "1. Na7 and the attacked rook must stay in place or lose the knight on c5 on move 2."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "r1bqk1nr/p1pp1p1p/1pn5/3NP2Q/2BP1B1p/8/PPP3PP/R4K1R w",
       "code": "2W0198",
-      "solution": "1. Nf6+!! with the threat of 2. Qxf7 mate. Black must give up his queen to stop the mate.",
+      "unparsed_solution": "1. Nf6+!! with the threat of 2. Qxf7 mate. Black must give up his queen to stop the mate.",
+      "parsed_solution": [
+        [
+          "1. Nf6+!! with the threat of 2. Qxf7 mate. Black must give up his queen to stop the mate."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "r1bq2kr/1p3p1p/p1n1p3/2B4N/3p1P2/2Q5/PPP3PP/R4RK1 w",
       "code": "2W0199",
-      "solution": "1. Qg3+ Qg5 2. Qxg5 mate. Submitted by Reddtrain on the Free Internet Chess Server.",
+      "unparsed_solution": "1. Qg3+ Qg5 2. Qxg5 mate. Submitted by Reddtrain on the Free Internet Chess Server.",
+      "parsed_solution": [
+        [
+          "1. Qg3+ Qg5 2. Qxg5 mate. Submitted by Reddtrain on the Free Internet Chess Server."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "3r2k1/p1q2ppp/1p6/2pp4/Q7/2P2PP1/PP3K1P/4R3 w",
       "code": "2W0200",
-      "solution": "In a bullet game, a 1692 player fell victim to either 1. Re8+ or Qe8+ that mates on move 2.",
+      "unparsed_solution": "In a bullet game, a 1692 player fell victim to either 1. Re8+ or Qe8+ that mates on move 2.",
+      "parsed_solution": [
+        [
+          "In a bullet game, a 1692 player fell victim to either 1. Re8+ or Qe8+ that mates on move 2."
+        ]
+      ],
       "page": "2w9.htm"
     },
     {
       "board": "6k1/p1p3p1/7p/5p2/2P5/4rBPP/PP4Kb/R7 w",
       "code": "2W0201",
-      "solution": "The simplest is 1. Bd5+ and 2. Kxh2 - maybe the best is 1. Rf1 to guard the 7th rank",
+      "unparsed_solution": "The simplest is 1. Bd5+ and 2. Kxh2 - maybe the best is 1. Rf1 to guard the 7th rank",
+      "parsed_solution": [
+        [
+          "The simplest is 1. Bd5+ and 2. Kxh2 - maybe the best is 1. Rf1 to guard the 7th rank"
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "3qkr2/1pR1r1b1/1B2Qpp1/3R4/4P3/8/P4PPP/6K1 w",
       "code": "2W0202",
-      "solution": "1. Rxd8+ Kxd8 2. Rc8 mate or Qc8 mate. But REALLY neat is 1. Rxe7+ Qxe7 2. Rd8 mate!",
+      "unparsed_solution": "1. Rxd8+ Kxd8 2. Rc8 mate or Qc8 mate. But REALLY neat is 1. Rxe7+ Qxe7 2. Rd8 mate!",
+      "parsed_solution": [
+        [
+          "1. Rxd8+ Kxd8 2. Rc8 mate or Qc8 mate. But REALLY neat is 1. Rxe7+ Qxe7 2. Rd8 mate!"
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r4rk1/ppb2p1R/2p1pqpQ/6N1/3P4/2P5/PP3PPP/R5K1 w",
       "code": "2W0203",
-      "solution": "1. Ne4 and the only thing that stops mate for now is 1. ... Bd8 2. Nxf6+ winning the queen",
+      "unparsed_solution": "1. Ne4 and the only thing that stops mate for now is 1. ... Bd8 2. Nxf6+ winning the queen",
+      "parsed_solution": [
+        [
+          "1. Ne4 and the only thing that stops mate for now is 1. ... Bd8 2. Nxf6+ winning the queen"
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r3r1k1/1p3pbp/p3b1p1/2B1P3/6n1/1N4P1/PPqN2BP/Q3R2K w",
       "code": "2W0204",
-      "solution": "1. Be4 tempoarily traps the queen. Now 1. ... Nf2+ 2. Bxf2 Qc7 and white has won a piece.",
+      "unparsed_solution": "1. Be4 tempoarily traps the queen. Now 1. ... Nf2+ 2. Bxf2 Qc7 and white has won a piece.",
+      "parsed_solution": [
+        [
+          "1. Be4 tempoarily traps the queen. Now 1. ... Nf2+ 2. Bxf2 Qc7 and white has won a piece."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r3kn1R/pp2q3/4b2R/3Q4/3p4/8/PPP2PP1/2K5 w",
       "code": "2W0205",
-      "solution": "1. Rxe6! (Note the knight on e6 is pinned.) Rd8 2. Rxe7+! wins. Submitted by Sean on ICC.",
+      "unparsed_solution": "1. Rxe6! (Note the knight on e6 is pinned.) Rd8 2. Rxe7+! wins. Submitted by Sean on ICC.",
+      "parsed_solution": [
+        [
+          "1. Rxe6! (Note the knight on e6 is pinned.) Rd8 2. Rxe7+! wins. Submitted by Sean on ICC."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "1r4k1/1bpq3p/pn1bR1pB/1p1P1p2/1P1Q4/1B6/P5PP/5RK1 w",
       "code": "2W0206",
-      "solution": "1. Rxd6! and now not Qxd6 because of 2. Qg7 mate. So 1. ... cxd6 2. Qxb6 wins the exchange.",
+      "unparsed_solution": "1. Rxd6! and now not Qxd6 because of 2. Qg7 mate. So 1. ... cxd6 2. Qxb6 wins the exchange.",
+      "parsed_solution": [
+        [
+          "1. Rxd6! and now not Qxd6 because of 2. Qg7 mate. So 1. ... cxd6 2. Qxb6 wins the exchange."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "3r1rk1/ppq2ppp/2nb1n2/8/5B2/P1N2NP1/1P2QP1P/R4RK1 w",
       "code": "2W0207",
-      "solution": "1. Nb5 forks the queen and bishop. If queen moves then 2. Nxd6 wins the exchange in a complicated position.",
+      "unparsed_solution": "1. Nb5 forks the queen and bishop. If queen moves then 2. Nxd6 wins the exchange in a complicated position.",
+      "parsed_solution": [
+        [
+          "1. Nb5 forks the queen and bishop. If queen moves then 2. Nxd6 wins the exchange in a complicated position."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r1b1R3/pp3p1k/2pb3q/3p4/3P1n1Q/2P3P1/PP1N1P2/6K1 w",
       "code": "2W0208",
-      "solution": "1. Rh8+ and now 1. ... Kg7 2. Qxh6 mate. If 1. ... Kxh8 2. Qxh6+ forking the King and Bishop on d6.",
+      "unparsed_solution": "1. Rh8+ and now 1. ... Kg7 2. Qxh6 mate. If 1. ... Kxh8 2. Qxh6+ forking the King and Bishop on d6.",
+      "parsed_solution": [
+        [
+          "1. Rh8+ and now 1. ... Kg7 2. Qxh6 mate. If 1. ... Kxh8 2. Qxh6+ forking the King and Bishop on d6."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r3k2r/pp1n1ppp/2pbp3/6B1/3P2qN/2P5/PP1Q1PPP/R3K2R w",
       "code": "2W0209",
-      "solution": "1. f3 Qh5 2. g4 traps the queen. So 1. f3 then Bg3+ is a way for black to give up a piece to save the queen.",
+      "unparsed_solution": "1. f3 Qh5 2. g4 traps the queen. So 1. f3 then Bg3+ is a way for black to give up a piece to save the queen.",
+      "parsed_solution": [
+        [
+          "1. f3 Qh5 2. g4 traps the queen. So 1. f3 then Bg3+ is a way for black to give up a piece to save the queen."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r3r1k1/ppp2p2/1b1p2pB/4p3/1PB1P3/P2P2Q1/2q2PK1/R4R2 w",
       "code": "2W0210",
-      "solution": "1. Qxg6+ (note that the pawn of f7 is pinned.) 1. ... Kh8 2. Qg7 mate. Sumitted by Reddtrain on FICS.",
+      "unparsed_solution": "1. Qxg6+ (note that the pawn of f7 is pinned.) 1. ... Kh8 2. Qg7 mate. Sumitted by Reddtrain on FICS.",
+      "parsed_solution": [
+        [
+          "1. Qxg6+ (note that the pawn of f7 is pinned.) 1. ... Kh8 2. Qg7 mate. Sumitted by Reddtrain on FICS."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r4rk1/2pq1pBp/3p4/pp2p3/2B1P1n1/P2P1b1P/1PPQ4/1K4R1 w",
       "code": "2W0211",
-      "solution": "1. Qg5 and the threats of 2. Bf6 mate and 2. Bh6 mate can only be slowed down by black giving up material.",
+      "unparsed_solution": "1. Qg5 and the threats of 2. Bf6 mate and 2. Bh6 mate can only be slowed down by black giving up material.",
+      "parsed_solution": [
+        [
+          "1. Qg5 and the threats of 2. Bf6 mate and 2. Bh6 mate can only be slowed down by black giving up material."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r2q1k1r/ppp5/4p1B1/b3P3/P2P2Q1/2P5/2P3PP/R1B3K1 w",
       "code": "2W0212",
-      "solution": "1. Qf3 (or f4) + and now any king move then 2. Qf7 mate. Black can delay things one move by giving up his queen.",
+      "unparsed_solution": "1. Qf3 (or f4) + and now any king move then 2. Qf7 mate. Black can delay things one move by giving up his queen.",
+      "parsed_solution": [
+        [
+          "1. Qf3 (or f4) + and now any king move then 2. Qf7 mate. Black can delay things one move by giving up his queen."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "8/4Q1bk/q4npp/4B3/8/8/r4RPP/1n5K w",
       "code": "2W0213",
-      "solution": "1. Bxf6 - the bishop is pinned - black must give up his queen to prevent Qxg7 mate , so 2. Qxf6 Rxf6 wins",
+      "unparsed_solution": "1. Bxf6 - the bishop is pinned - black must give up his queen to prevent Qxg7 mate , so 2. Qxf6 Rxf6 wins",
+      "parsed_solution": [
+        [
+          "1. Bxf6 - the bishop is pinned - black must give up his queen to prevent Qxg7 mate , so 2. Qxf6 Rxf6 wins"
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r2qkb1r/pp2pppp/1nnp4/8/3P2b1/1B3N2/PPP2PPP/RNBQK2R w",
       "code": "2W0214",
-      "solution": "1. Bxf7+ Kxf7 2. Ng5+ wins the bishop on g4 (white is up a pawn) and puts the black king in a bad position.",
+      "unparsed_solution": "1. Bxf7+ Kxf7 2. Ng5+ wins the bishop on g4 (white is up a pawn) and puts the black king in a bad position.",
+      "parsed_solution": [
+        [
+          "1. Bxf7+ Kxf7 2. Ng5+ wins the bishop on g4 (white is up a pawn) and puts the black king in a bad position."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r1b2rk1/3qbppp/p7/1p1nP1B1/8/2Np1N2/PP3PPP/R2Q1RK1 w",
       "code": "2W0215",
-      "solution": "The game Crafty - DGurevish (Speed game on Internet Chess Club) continued 1. Nxd5! Bxg5 2. Nb6 with a fork!",
+      "unparsed_solution": "The game Crafty - DGurevish (Speed game on Internet Chess Club) continued 1. Nxd5! Bxg5 2. Nb6 with a fork!",
+      "parsed_solution": [
+        [
+          "The game Crafty - DGurevish (Speed game on Internet Chess Club) continued 1. Nxd5! Bxg5 2. Nb6 with a fork!"
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r1r4b/pp2p2k/3pBnpB/q3n3/4P1P1/2N2P2/PPPQ4/R3K2R w",
       "code": "2W0216",
-      "solution": "1. Bf8+ Nh5 (forced) 2. Qh6 mate! Thanks to mesh (Daniel McGuire) on the Internet Chess Club for this combination.",
+      "unparsed_solution": "1. Bf8+ Nh5 (forced) 2. Qh6 mate! Thanks to mesh (Daniel McGuire) on the Internet Chess Club for this combination.",
+      "parsed_solution": [
+        [
+          "1. Bf8+ Nh5 (forced) 2. Qh6 mate! Thanks to mesh (Daniel McGuire) on the Internet Chess Club for this combination."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "6r1/4p1k1/3pQ2b/pp1P4/2q5/5P2/PPP1R3/1K6 w",
       "code": "2W0217",
-      "solution": "1. Rg2+ mates real soon. If Kf8 or Kh7 then 2. Qxg8 mate . black can delay mate by giving up the bishop or queen",
+      "unparsed_solution": "1. Rg2+ mates real soon. If Kf8 or Kh7 then 2. Qxg8 mate . black can delay mate by giving up the bishop or queen",
+      "parsed_solution": [
+        [
+          "1. Rg2+ mates real soon. If Kf8 or Kh7 then 2. Qxg8 mate . black can delay mate by giving up the bishop or queen"
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "5k1r/p1p1n1p1/1p2Q2p/8/3N1p1q/1P6/P1P3P1/4R1K1 w",
       "code": "2W0218",
-      "solution": "1. Nf5 threatens queen and the knight. If 1. ... Nxf5 then 2. Qe8 mate! So if 1. ... Qxe1+ 2. Qxe1 Nxf5 white is better",
+      "unparsed_solution": "1. Nf5 threatens queen and the knight. If 1. ... Nxf5 then 2. Qe8 mate! So if 1. ... Qxe1+ 2. Qxe1 Nxf5 white is better",
+      "parsed_solution": [
+        [
+          "1. Nf5 threatens queen and the knight. If 1. ... Nxf5 then 2. Qe8 mate! So if 1. ... Qxe1+ 2. Qxe1 Nxf5 white is better"
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "r4k2/3R3R/p4p2/1p6/1n3N2/1b5P/5PP1/6K1 w",
       "code": "2W0219",
-      "solution": "1. Ng6+ and now if 1. ... Ke8 2. Rhe7 mate. But if instead 1. ... Kg8 then 2. Rh8 mate or 2. Rg7 mate (eithor rook.)",
+      "unparsed_solution": "1. Ng6+ and now if 1. ... Ke8 2. Rhe7 mate. But if instead 1. ... Kg8 then 2. Rh8 mate or 2. Rg7 mate (eithor rook.)",
+      "parsed_solution": [
+        [
+          "1. Ng6+ and now if 1. ... Ke8 2. Rhe7 mate. But if instead 1. ... Kg8 then 2. Rh8 mate or 2. Rg7 mate (eithor rook.)"
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "2r3k1/1q4pp/p3p3/1p6/3Pb1NQ/P7/1P4PP/4R1K1 w",
       "code": "2W0220",
-      "solution": "1. Rxe4 wins the Bishop. If 1. ... Qxe4 2. Nf6+ makes a discovered attack on the Queen. If 1. ... Rc1+ 2. Re1 holds.",
+      "unparsed_solution": "1. Rxe4 wins the Bishop. If 1. ... Qxe4 2. Nf6+ makes a discovered attack on the Queen. If 1. ... Rc1+ 2. Re1 holds.",
+      "parsed_solution": [
+        [
+          "1. Rxe4 wins the Bishop. If 1. ... Qxe4 2. Nf6+ makes a discovered attack on the Queen. If 1. ... Rc1+ 2. Re1 holds."
+        ]
+      ],
       "page": "2w10.htm"
     },
     {
       "board": "8/5p1k/3b2p1/2p2rPp/P3RP1P/2B2K2/1P6/8 w",
       "code": "2W0221",
-      "solution": "1. Re8 f6+ 2. Bxf6 black must give up the exchange to avoid mate He can delay things with Rxf4+ but not that it matters.",
+      "unparsed_solution": "1. Re8 f6+ 2. Bxf6 black must give up the exchange to avoid mate He can delay things with Rxf4+ but not that it matters.",
+      "parsed_solution": [
+        [
+          "1. Re8 f6+ 2. Bxf6 black must give up the exchange to avoid mate He can delay things with Rxf4+ but not that it matters."
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "r1bQ3r/1pp3kp/p4R2/2bqB3/4P3/8/PP4PP/n6K w",
       "code": "2W0222",
-      "solution": "There are two amazing ways to mate here. The first is 1. Qxh8+! Kxh8 2. Rf8 mate! The second is 1. Rf5+ followed by 2. Qg5 mate!",
+      "unparsed_solution": "There are two amazing ways to mate here. The first is 1. Qxh8+! Kxh8 2. Rf8 mate! The second is 1. Rf5+ followed by 2. Qg5 mate!",
+      "parsed_solution": [
+        [
+          "There are two amazing ways to mate here. The first is 1. Qxh8+! Kxh8 2. Rf8 mate! The second is 1. Rf5+ followed by 2. Qg5 mate!"
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "5bk1/3R1p1p/3n2p1/1p1P4/5B2/1P3B2/1n3PPP/r2N2K1 w",
       "code": "2W0223",
-      "solution": "Not 1. Bxd6 Nxd1. Instead 1. Be5!!! win a pin on the knight on b2. i.e. 1. ... Nxd1 2. Bxa1 or 1. ... Rb1 2. Bxb2 wins.",
+      "unparsed_solution": "Not 1. Bxd6 Nxd1. Instead 1. Be5!!! win a pin on the knight on b2. i.e. 1. ... Nxd1 2. Bxa1 or 1. ... Rb1 2. Bxb2 wins.",
+      "parsed_solution": [
+        [
+          "Not 1. Bxd6 Nxd1. Instead 1. Be5!!! win a pin on the knight on b2. i.e. 1. ... Nxd1 2. Bxa1 or 1. ... Rb1 2. Bxb2 wins."
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "r1br4/2RP1pkp/4pp2/ppN5/8/1P6/1P3PPP/3R2K1 w",
       "code": "2W0224",
-      "solution": "Not 1. dxc8=Q Rxd1 mate. Instead 1. Nxe6+!! forking the king and rook. Then if 1. ... fxe6 2. dxc8=Q with check wins easily.",
+      "unparsed_solution": "Not 1. dxc8=Q Rxd1 mate. Instead 1. Nxe6+!! forking the king and rook. Then if 1. ... fxe6 2. dxc8=Q with check wins easily.",
+      "parsed_solution": [
+        [
+          "Not 1. dxc8=Q Rxd1 mate. Instead 1. Nxe6+!! forking the king and rook. Then if 1. ... fxe6 2. dxc8=Q with check wins easily."
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "r1bq1b1r/pppp2pp/2n5/3N2Nk/3P1Bn1/3Q4/PPP1B1PP/R3K2R w",
       "code": "2W0225",
-      "solution": "1. Bxg4+ mates next move. 1. ... Kh6 2. Nf7 mate 1. ... Kh4 or 1. ... Kxg4 Qh3 mate Also works is 1. Qh3+ Kg6 2. Bd3 mate.",
+      "unparsed_solution": "1. Bxg4+ mates next move. 1. ... Kh6 2. Nf7 mate 1. ... Kh4 or 1. ... Kxg4 Qh3 mate Also works is 1. Qh3+ Kg6 2. Bd3 mate.",
+      "parsed_solution": [
+        [
+          "1. Bxg4+ mates next move. 1. ... Kh6 2. Nf7 mate 1. ... Kh4 or 1. ... Kxg4 Qh3 mate Also works is 1. Qh3+ Kg6 2. Bd3 mate."
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "r1b2r1k/p2p2bp/3q1npB/8/2pNP3/2P5/PP2Q1P1/2KR3R w",
       "code": "2W0226",
-      "solution": "1. Bxg7+ Kxg7 2. Nf5+ makes an discovered attack on the queen by the rook on d1. Black could play 1 .... Kg8 but would lose his rook on f8.",
+      "unparsed_solution": "1. Bxg7+ Kxg7 2. Nf5+ makes an discovered attack on the queen by the rook on d1. Black could play 1 .... Kg8 but would lose his rook on f8.",
+      "parsed_solution": [
+        [
+          "1. Bxg7+ Kxg7 2. Nf5+ makes an discovered attack on the queen by the rook on d1. Black could play 1 .... Kg8 but would lose his rook on f8."
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "r5k1/2p2ppp/1pP5/p3R1q1/P1QP4/B3nP2/6PP/6K1 w",
       "code": "2W0227",
-      "solution": "1. Qe2 stopping mate and now the knight is pinned because if it moves then 2. Re8+ leads to mate. So the knight drops on move .2",
+      "unparsed_solution": "1. Qe2 stopping mate and now the knight is pinned because if it moves then 2. Re8+ leads to mate. So the knight drops on move .2",
+      "parsed_solution": [
+        [
+          "1. Qe2 stopping mate and now the knight is pinned because if it moves then 2. Re8+ leads to mate. So the knight drops on move .2"
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "r3k2r/pp2qppp/2p1pn2/8/3PB3/5Q1P/PPP2PP1/2KR3R w",
       "code": "2W0228",
-      "solution": "1. Bxc6 wins at least two pawns. if bxc6 then 2. Qxc6+ forks the king and the rook. Otherwise if 1. ... Nd7 2. Bxb7 picking up a second pawn.",
+      "unparsed_solution": "1. Bxc6 wins at least two pawns. if bxc6 then 2. Qxc6+ forks the king and the rook. Otherwise if 1. ... Nd7 2. Bxb7 picking up a second pawn.",
+      "parsed_solution": [
+        [
+          "1. Bxc6 wins at least two pawns. if bxc6 then 2. Qxc6+ forks the king and the rook. Otherwise if 1. ... Nd7 2. Bxb7 picking up a second pawn."
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "3br1k1/1R1N1p1p/2R1p1p1/3p4/r2P4/4P1P1/1P3PKP/8 w",
       "code": "2W0229",
-      "solution": "1. Rc8 wins the bishop on d8. The immediate threat is 2. Nf6+. If 1. ... Re7 2. Rxd8 wins. If instead 1. ... Kg7 2. Rb8 wins the bishop",
+      "unparsed_solution": "1. Rc8 wins the bishop on d8. The immediate threat is 2. Nf6+. If 1. ... Re7 2. Rxd8 wins. If instead 1. ... Kg7 2. Rb8 wins the bishop",
+      "parsed_solution": [
+        [
+          "1. Rc8 wins the bishop on d8. The immediate threat is 2. Nf6+. If 1. ... Re7 2. Rxd8 wins. If instead 1. ... Kg7 2. Rb8 wins the bishop"
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "r2N1br1/k2np2p/4Q3/q1p5/1p5P/1P3N2/b4PP1/4KB1R w",
       "code": "2W0230",
-      "solution": "Although 1. Nc6+ is good, much better is 1. Qxd7+ which mates on move 2. I.E. 1. ... Qc7 2.Qxc7 mate! Or if the king moves then 2. Qb7 mate!",
+      "unparsed_solution": "Although 1. Nc6+ is good, much better is 1. Qxd7+ which mates on move 2. I.E. 1. ... Qc7 2.Qxc7 mate! Or if the king moves then 2. Qb7 mate!",
+      "parsed_solution": [
+        [
+          "Although 1. Nc6+ is good, much better is 1. Qxd7+ which mates on move 2. I.E. 1. ... Qc7 2.Qxc7 mate! Or if the king moves then 2. Qb7 mate!"
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "2b1R3/2p4p/p1P2kp1/3P1p2/P7/8/5KPP/1Br5 w",
       "code": "2W0231",
-      "solution": "1. Bd3 (only safe square for the bishop. ) and white wins because the black bishop can't espape attack on move 2. if 1. ... Rc3 2. Ke2 wins.",
+      "unparsed_solution": "1. Bd3 (only safe square for the bishop. ) and white wins because the black bishop can't espape attack on move 2. if 1. ... Rc3 2. Ke2 wins.",
+      "parsed_solution": [
+        [
+          "1. Bd3 (only safe square for the bishop. ) and white wins because the black bishop can't espape attack on move 2. if 1. ... Rc3 2. Ke2 wins."
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "1Q6/8/8/K6p/8/6p1/P6k/8 w",
       "code": "2W0232",
-      "solution": "This should look very familar. It happened to me about 4 times playing on the internet over 2 days! The solution is 1. Qh8 g2 2. Qxh4+ with a won endgame.",
+      "unparsed_solution": "This should look very familar. It happened to me about 4 times playing on the internet over 2 days! The solution is 1. Qh8 g2 2. Qxh4+ with a won endgame.",
+      "parsed_solution": [
+        [
+          "This should look very familar. It happened to me about 4 times playing on the internet over 2 days! The solution is 1. Qh8 g2 2. Qxh4+ with a won endgame."
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "5n2/3bQpk1/r1pP1qp1/ppR2P1p/6P1/7P/PP1R2B1/6K1 w",
       "code": "2W0233",
-      "solution": "From a Petrosion game. 1. g5!! and the black queen has nowhere to hide so Qxe7 2. dxe7 and the knight must move away from the defnese of the bishop. Black resigned.",
+      "unparsed_solution": "From a Petrosion game. 1. g5!! and the black queen has nowhere to hide so Qxe7 2. dxe7 and the knight must move away from the defnese of the bishop. Black resigned.",
+      "parsed_solution": [
+        [
+          "From a Petrosion game. 1. g5!! and the black queen has nowhere to hide so Qxe7 2. dxe7 and the knight must move away from the defnese of the bishop. Black resigned."
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "8/kp5R/p1pp4/6r1/8/P2K4/4R3/8 w",
       "code": "2W0234",
-      "solution": "White mistakenly played 1. R2e7 which black can defend with Rb5. Instead much better is 1. Rb2 which will either win the pawn on b7 or give white a good endgame after 1. ... Rb5 2. Rxb5",
+      "unparsed_solution": "White mistakenly played 1. R2e7 which black can defend with Rb5. Instead much better is 1. Rb2 which will either win the pawn on b7 or give white a good endgame after 1. ... Rb5 2. Rxb5",
+      "parsed_solution": [
+        [
+          "White mistakenly played 1. R2e7 which black can defend with Rb5. Instead much better is 1. Rb2 which will either win the pawn on b7 or give white a good endgame after 1. ... Rb5 2. Rxb5"
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "6k1/p2R1pp1/5q1p/3Bp3/2p1P3/P7/1r3PPP/3R2K1 w",
       "code": "2W0235",
-      "solution": "1. Rxf7 and there is no place on the board for the Queen to hide. i.e. 1. ... Qh4 2. Rf4+ wins the Queen. 1. ... Qa6 2. Rxa7+ 1. ... Qxf2+ 2. Rxf2+ 1. ... Qd8 2. Rd7+",
+      "unparsed_solution": "1. Rxf7 and there is no place on the board for the Queen to hide. i.e. 1. ... Qh4 2. Rf4+ wins the Queen. 1. ... Qa6 2. Rxa7+ 1. ... Qxf2+ 2. Rxf2+ 1. ... Qd8 2. Rd7+",
+      "parsed_solution": [
+        [
+          "1. Rxf7 and there is no place on the board for the Queen to hide. i.e. 1. ... Qh4 2. Rf4+ wins the Queen. 1. ... Qa6 2. Rxa7+ 1. ... Qxf2+ 2. Rxf2+ 1. ... Qd8 2. Rd7+"
+        ]
+      ],
       "page": "2w11.htm"
     },
     {
       "board": "r1b3rk/p1p1n2p/1pnp1p1B/4pP1q/2P1P3/2PP1N2/P3B1P1/R2Q1RK1 w",
       "code": "2W0236",
-      "solution": "I watched this amazing combo in a fast blitz game between BarryH and Utah on the Inernet Chess Club. 1. Nxe5! threatening the Queen by the bishop on e2. If 1. ... Qh4 2. Nf2 mate. If 1. ... Qxh6 2. Nf7+ wins the Queen. Qe8 White wins pawn.",
+      "unparsed_solution": "I watched this amazing combo in a fast blitz game between BarryH and Utah on the Inernet Chess Club. 1. Nxe5! threatening the Queen by the bishop on e2. If 1. ... Qh4 2. Nf2 mate. If 1. ... Qxh6 2. Nf7+ wins the Queen. Qe8 White wins pawn.",
+      "parsed_solution": [
+        [
+          "I watched this amazing combo in a fast blitz game between BarryH and Utah on the Inernet Chess Club. 1. Nxe5! threatening the Queen by the bishop on e2. If 1. ... Qh4 2. Nf2 mate. If 1. ... Qxh6 2. Nf7+ wins the Queen. Qe8 White wins pawn."
+        ]
+      ],
       "page": "2w11.htm"
     }
   ]

@@ -46,7 +46,10 @@ module JrcParser
           puzzle = ::Hash.new
           puzzle[:board] = board_to_fen(board, player_to_move)
           puzzle[:code] = fetch_puzzle_code(board)
-          puzzle[:solution] = fetch_puzzle_solution(puzzle[:code], doc)
+
+          solution = fetch_puzzle_solution(puzzle[:code], doc)
+          puzzle[:unparsed_solution] = solution
+          puzzle[:parsed_solution] = [[solution]]
           puzzles << puzzle
         end
         puzzles

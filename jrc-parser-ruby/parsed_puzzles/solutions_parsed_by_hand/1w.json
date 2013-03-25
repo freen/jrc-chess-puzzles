@@ -292,7 +292,10 @@
       "unparsed_solution": "1. Qd7 or Qe6 mate",
       "parsed_solution": [
         [
-          "1. Qd7 or Qe6 mate"
+          "1. Qd7 mate"
+        ],
+        [
+          "1. Qe6 mate"
         ]
       ],
       "page": "1w1.htm"
@@ -358,8 +361,11 @@
       "unparsed_solution": "1. Qc4 or Qd5 mate",
       "parsed_solution": [
         [
-          "1. Qc4 or Qd5 mate"
-        ]
+          "1. Qc4 mate"
+        ],
+        [
+          "1. Qd5 mate"
+        ],
       ],
       "page": "1w1.htm"
     },
@@ -831,7 +837,10 @@
       "unparsed_solution": "1. Qd8 mate. Thanks to Rick Botto for pointing out Qe6 mate also.",
       "parsed_solution": [
         [
-          "1. Qd8 mate. Thanks to Rick Botto for pointing out Qe6 mate also."
+          "1. Qd8 mate."
+        ],
+        [
+          "1. Qe6 mate."
         ]
       ],
       "page": "1w3.htm"
@@ -1249,7 +1258,10 @@
       "unparsed_solution": "1. Qh6+ or 1. Qh5+",
       "parsed_solution": [
         [
-          "1. Qh6+ or 1. Qh5+"
+          "1. Qh6+"
+        ],
+        [
+          "1. Qh5+"
         ]
       ],
       "page": "1w5.htm"
@@ -1260,7 +1272,7 @@
       "unparsed_solution": "1. c3 wins the knight",
       "parsed_solution": [
         [
-          "1. c3 wins the knight"
+          "1. c3"
         ]
       ],
       "page": "1w5.htm"
@@ -1271,7 +1283,7 @@
       "unparsed_solution": "1. f4 wins the bishop",
       "parsed_solution": [
         [
-          "1. f4 wins the bishop"
+          "1. f4"
         ]
       ],
       "page": "1w5.htm"
@@ -1282,7 +1294,7 @@
       "unparsed_solution": "1. Bc3 traps the Queen",
       "parsed_solution": [
         [
-          "1. Bc3 traps the Queen"
+          "1. Bc3"
         ]
       ],
       "page": "1w5.htm"
@@ -1293,7 +1305,7 @@
       "unparsed_solution": "1. e5 forks two pieces",
       "parsed_solution": [
         [
-          "1. e5 forks two pieces"
+          "1. e5"
         ]
       ],
       "page": "1w5.htm"
@@ -1304,7 +1316,7 @@
       "unparsed_solution": "1. d6 traps the bishop",
       "parsed_solution": [
         [
-          "1. d6 traps the bishop"
+          "1. d6"
         ]
       ],
       "page": "1w5.htm"
@@ -1315,7 +1327,7 @@
       "unparsed_solution": "1. d5 traps the bishop",
       "parsed_solution": [
         [
-          "1. d5 traps the bishop"
+          "1. d5"
         ]
       ],
       "page": "1w5.htm"
@@ -1326,7 +1338,7 @@
       "unparsed_solution": "1. Nxc7+ wins the rook",
       "parsed_solution": [
         [
-          "1. Nxc7+ wins the rook"
+          "1. Nxc7+"
         ]
       ],
       "page": "1w5.htm"
@@ -1337,7 +1349,7 @@
       "unparsed_solution": "1. g4 traps the queen.",
       "parsed_solution": [
         [
-          "1. g4 traps the queen."
+          "1. g4"
         ]
       ],
       "page": "1w5.htm"
@@ -1348,7 +1360,7 @@
       "unparsed_solution": "1. Re8 pins the queen.",
       "parsed_solution": [
         [
-          "1. Re8 pins the queen."
+          "1. Re8"
         ]
       ],
       "page": "1w6.htm"
@@ -1359,7 +1371,7 @@
       "unparsed_solution": "1. Rh1 wins the bishop",
       "parsed_solution": [
         [
-          "1. Rh1 wins the bishop"
+          "1. Rh1"
         ]
       ],
       "page": "1w6.htm"
@@ -1370,7 +1382,7 @@
       "unparsed_solution": "1. Bxh5 wins a knight",
       "parsed_solution": [
         [
-          "1. Bxh5 wins a knight"
+          "1. Bxh5"
         ]
       ],
       "page": "1w6.htm"
@@ -1381,7 +1393,7 @@
       "unparsed_solution": "1. Rc1 pins the Queen.",
       "parsed_solution": [
         [
-          "1. Rc1 pins the Queen."
+          "1. Rc1"
         ]
       ],
       "page": "1w6.htm"
@@ -1392,7 +1404,7 @@
       "unparsed_solution": "1. Rd6 pins the queen.",
       "parsed_solution": [
         [
-          "1. Rd6 pins the queen."
+          "1. Rd6"
         ]
       ],
       "page": "1w6.htm"
@@ -1403,7 +1415,7 @@
       "unparsed_solution": "1. Rd8 pins the queen.",
       "parsed_solution": [
         [
-          "1. Rd8 pins the queen."
+          "1. Rd8"
         ]
       ],
       "page": "1w6.htm"
@@ -1414,7 +1426,7 @@
       "unparsed_solution": "1. Ra6 wins the knight",
       "parsed_solution": [
         [
-          "1. Ra6 wins the knight"
+          "1. Ra6"
         ]
       ],
       "page": "1w6.htm"
@@ -1436,7 +1448,7 @@
       "unparsed_solution": "1. Bg7 forks two pieces",
       "parsed_solution": [
         [
-          "1. Bg7 forks two pieces"
+          "1. Bg7"
         ]
       ],
       "page": "1w6.htm"
@@ -1447,7 +1459,7 @@
       "unparsed_solution": "1. Nd6 forks two pieces",
       "parsed_solution": [
         [
-          "1. Nd6 forks two pieces"
+          "1. Nd6"
         ]
       ],
       "page": "1w6.htm"
@@ -1458,7 +1470,7 @@
       "unparsed_solution": "1. Bg5 traps the Queen.",
       "parsed_solution": [
         [
-          "1. Bg5 traps the Queen."
+          "1. Bg5"
         ]
       ],
       "page": "1w6.htm"
@@ -1469,7 +1481,7 @@
       "unparsed_solution": "1. Nc6 forks everything",
       "parsed_solution": [
         [
-          "1. Nc6 forks everything"
+          "1. Nc6"
         ]
       ],
       "page": "1w6.htm"
@@ -1480,7 +1492,7 @@
       "unparsed_solution": "1. Ba3 pins the queen.",
       "parsed_solution": [
         [
-          "1. Ba3 pins the queen."
+          "1. Ba3"
         ]
       ],
       "page": "1w6.htm"
@@ -1491,7 +1503,7 @@
       "unparsed_solution": "1. Be7 forks two rooks.",
       "parsed_solution": [
         [
-          "1. Be7 forks two rooks."
+          "1. Be7"
         ]
       ],
       "page": "1w6.htm"
@@ -1502,7 +1514,7 @@
       "unparsed_solution": "1. Nc3+ wins the Queen.",
       "parsed_solution": [
         [
-          "1. Nc3+ wins the Queen."
+          "1. Nc3+"
         ]
       ],
       "page": "1w6.htm"
@@ -1513,7 +1525,7 @@
       "unparsed_solution": "1. Qxf6 wins the knight",
       "parsed_solution": [
         [
-          "1. Qxf6 wins the knight"
+          "1. Qxf6"
         ]
       ],
       "page": "1w6.htm"
@@ -1524,7 +1536,7 @@
       "unparsed_solution": "1. Bd6 with a fatal pin",
       "parsed_solution": [
         [
-          "1. Bd6 with a fatal pin"
+          "1. Bd6"
         ]
       ],
       "page": "1w6.htm"
@@ -1535,7 +1547,10 @@
       "unparsed_solution": "1. Qf7 mate or Qe8 mate",
       "parsed_solution": [
         [
-          "1. Qf7 mate or Qe8 mate"
+          "1. Qf7 mate"
+        ],
+        [
+          "1. Qe8 mate"
         ]
       ],
       "page": "1w6.htm"
@@ -1546,7 +1561,7 @@
       "unparsed_solution": "1. Rc1 wins the knight.",
       "parsed_solution": [
         [
-          "1. Rc1 wins the knight."
+          "1. Rc1"
         ]
       ],
       "page": "1w6.htm"
@@ -1557,7 +1572,7 @@
       "unparsed_solution": "1. Rd8 traps the Queen.",
       "parsed_solution": [
         [
-          "1. Rd8 traps the Queen."
+          "1. Rd8"
         ]
       ],
       "page": "1w6.htm"
@@ -1568,7 +1583,7 @@
       "unparsed_solution": "1. c6 forks two pieces.",
       "parsed_solution": [
         [
-          "1. c6 forks two pieces."
+          "1. c6"
         ]
       ],
       "page": "1w7.htm"
@@ -1579,7 +1594,7 @@
       "unparsed_solution": "1. g3+ forks two pieces",
       "parsed_solution": [
         [
-          "1. g3+ forks two pieces"
+          "1. g3+"
         ]
       ],
       "page": "1w7.htm"
@@ -1590,7 +1605,7 @@
       "unparsed_solution": "1. Qxg4 wins the knight!",
       "parsed_solution": [
         [
-          "1. Qxg4 wins the knight!"
+          "1. Qxg4"
         ]
       ],
       "page": "1w7.htm"
@@ -1601,7 +1616,7 @@
       "unparsed_solution": "1. Nd7 forks two pieces.",
       "parsed_solution": [
         [
-          "1. Nd7 forks two pieces."
+          "1. Nd7"
         ]
       ],
       "page": "1w7.htm"
@@ -1612,7 +1627,7 @@
       "unparsed_solution": "1. Rxa7 traps the queen.",
       "parsed_solution": [
         [
-          "1. Rxa7 traps the queen."
+          "1. Rxa7"
         ]
       ],
       "page": "1w7.htm"
@@ -1623,7 +1638,7 @@
       "unparsed_solution": "1. c4 attacks d5 and h8.",
       "parsed_solution": [
         [
-          "1. c4 attacks d5 and h8."
+          "1. c4"
         ]
       ],
       "page": "1w7.htm"
@@ -1634,7 +1649,7 @@
       "unparsed_solution": "1. Qxf5 wins the knight.",
       "parsed_solution": [
         [
-          "1. Qxf5 wins the knight."
+          "1. Qxf5"
         ]
       ],
       "page": "1w7.htm"
@@ -1645,7 +1660,7 @@
       "unparsed_solution": "1. Nc6 forks two pieces.",
       "parsed_solution": [
         [
-          "1. Nc6 forks two pieces."
+          "1. Nc6"
         ]
       ],
       "page": "1w7.htm"
@@ -1656,7 +1671,7 @@
       "unparsed_solution": "1. Ne5 forks two pieces.",
       "parsed_solution": [
         [
-          "1. Ne5 forks two pieces."
+          "1. Ne5"
         ]
       ],
       "page": "1w7.htm"
@@ -1667,7 +1682,7 @@
       "unparsed_solution": "1. e6 attacks two pieces",
       "parsed_solution": [
         [
-          "1. e6 attacks two pieces"
+          "1. e6"
         ]
       ],
       "page": "1w7.htm"
@@ -1678,7 +1693,10 @@
       "unparsed_solution": "1. Ra1 mate or Qa4 mate!",
       "parsed_solution": [
         [
-          "1. Ra1 mate or Qa4 mate!"
+          "1. Ra1 mate"
+        ],
+        [
+          "1. Qa4 mate!"
         ]
       ],
       "page": "1w7.htm"
@@ -1689,7 +1707,10 @@
       "unparsed_solution": "1. Qd7 mate or Qe6 mate.",
       "parsed_solution": [
         [
-          "1. Qd7 mate or Qe6 mate."
+          "1. Qd7 mate."
+        ],
+        [
+          "1. Qe6 mate."
         ]
       ],
       "page": "1w7.htm"
@@ -1700,7 +1721,7 @@
       "unparsed_solution": "1. Bxb7 forks two pieces.",
       "parsed_solution": [
         [
-          "1. Bxb7 forks two pieces."
+          "1. Bxb7."
         ]
       ],
       "page": "1w7.htm"
@@ -1711,7 +1732,7 @@
       "unparsed_solution": "1. Qxh7 mate is the best.",
       "parsed_solution": [
         [
-          "1. Qxh7 mate is the best."
+          "1. Qxh7 mate."
         ]
       ],
       "page": "1w7.htm"
@@ -1722,7 +1743,7 @@
       "unparsed_solution": "1. Nf7+ forks two pieces.",
       "parsed_solution": [
         [
-          "1. Nf7+ forks two pieces."
+          "1. Nf7+"
         ]
       ],
       "page": "1w7.htm"
@@ -1733,7 +1754,7 @@
       "unparsed_solution": "1. Bd5 wins the rook on a8.",
       "parsed_solution": [
         [
-          "1. Bd5 wins the rook on a8."
+          "1. Bd5"
         ]
       ],
       "page": "1w7.htm"
@@ -1744,7 +1765,7 @@
       "unparsed_solution": "1. Nc7+ forks king and rook",
       "parsed_solution": [
         [
-          "1. Nc7+ forks king and rook"
+          "1. Nc7+"
         ]
       ],
       "page": "1w7.htm"
@@ -1755,7 +1776,10 @@
       "unparsed_solution": "1. Bg6 mate or 1. Qg8 mate.",
       "parsed_solution": [
         [
-          "1. Bg6 mate or 1. Qg8 mate."
+          "1. Bg6 mate."
+        ],
+        [
+          "1. Qg8 mate."
         ]
       ],
       "page": "1w7.htm"
@@ -1766,7 +1790,10 @@
       "unparsed_solution": "1. Re4 mate or 1. Qe4 mate.",
       "parsed_solution": [
         [
-          "1. Re4 mate or 1. Qe4 mate."
+          "1. Re4 mate."
+        ],
+        [
+          "1. Qe4 mate."
         ]
       ],
       "page": "1w7.htm"
@@ -1777,7 +1804,7 @@
       "unparsed_solution": "1. d3 wins the pinned knight",
       "parsed_solution": [
         [
-          "1. d3 wins the pinned knight"
+          "1. d3"
         ]
       ],
       "page": "1w7.htm"
@@ -1788,7 +1815,7 @@
       "unparsed_solution": "1. Nc6 forks Queen and rook.",
       "parsed_solution": [
         [
-          "1. Nc6 forks Queen and rook."
+          "1. Nc6"
         ]
       ],
       "page": "1w8.htm"
@@ -1799,7 +1826,7 @@
       "unparsed_solution": "1. g4 traps the knight on h5",
       "parsed_solution": [
         [
-          "1. g4 traps the knight on h5"
+          "1. g4"
         ]
       ],
       "page": "1w8.htm"
@@ -1810,7 +1837,7 @@
       "unparsed_solution": "1. Nb5+ wins the rook on d4.",
       "parsed_solution": [
         [
-          "1. Nb5+ wins the rook on d4."
+          "1. Nb5+"
         ]
       ],
       "page": "1w8.htm"
@@ -1821,7 +1848,7 @@
       "unparsed_solution": "1. d6 traps the bishop on d6",
       "parsed_solution": [
         [
-          "1. d6 traps the bishop on d6"
+          "1. d6"
         ]
       ],
       "page": "1w8.htm"
@@ -1832,7 +1859,7 @@
       "unparsed_solution": "1. Nb5 forks Queen and Rook.",
       "parsed_solution": [
         [
-          "1. Nb5 forks Queen and Rook."
+          "1. Nb5"
         ]
       ],
       "page": "1w8.htm"
@@ -1843,7 +1870,7 @@
       "unparsed_solution": "1. g3 wins the bishop on h2.",
       "parsed_solution": [
         [
-          "1. g3 wins the bishop on h2."
+          "1. g3"
         ]
       ],
       "page": "1w8.htm"
@@ -1854,7 +1881,7 @@
       "unparsed_solution": "1. Bxe4 forks the two rooks.",
       "parsed_solution": [
         [
-          "1. Bxe4 forks the two rooks."
+          "1. Bxe4"
         ]
       ],
       "page": "1w8.htm"
@@ -1865,7 +1892,7 @@
       "unparsed_solution": "1. Qe4+ wins the Queen on b1",
       "parsed_solution": [
         [
-          "1. Qe4+ wins the Queen on b1"
+          "1. Qe4+"
         ]
       ],
       "page": "1w8.htm"
@@ -1876,7 +1903,10 @@
       "unparsed_solution": "1. Qxf7 mate or 1. Bxf7 mate.",
       "parsed_solution": [
         [
-          "1. Qxf7 mate or 1. Bxf7 mate."
+          "1. Qxf7 mate"
+        ],
+        [
+          "1. Bxf7 mate"
         ]
       ],
       "page": "1w8.htm"
@@ -1887,7 +1917,7 @@
       "unparsed_solution": "1. Nf6 wins forks two pieces.",
       "parsed_solution": [
         [
-          "1. Nf6 wins forks two pieces."
+          "1. Nf6"
         ]
       ],
       "page": "1w8.htm"
@@ -1898,7 +1928,7 @@
       "unparsed_solution": "1. Nd7 forks a rook and queen",
       "parsed_solution": [
         [
-          "1. Nd7 forks a rook and queen"
+          "1. Nd7"
         ]
       ],
       "page": "1w8.htm"
@@ -1909,7 +1939,10 @@
       "unparsed_solution": "1. Ke4+ or Ke2+ wins the rook",
       "parsed_solution": [
         [
-          "1. Ke4+ or Ke2+ wins the rook"
+          "1. Ke4+"
+        ],
+        [
+          "1. Ke2+"
         ]
       ],
       "page": "1w8.htm"
@@ -1920,7 +1953,7 @@
       "unparsed_solution": "1. Rxe8+ wins the Queen on g8!",
       "parsed_solution": [
         [
-          "1. Rxe8+ wins the Queen on g8!"
+          "1. Rxe8+"
         ]
       ],
       "page": "1w8.htm"
@@ -1931,7 +1964,10 @@
       "unparsed_solution": "1. Qd7 mate! (Qc8 works too.)",
       "parsed_solution": [
         [
-          "1. Qd7 mate! (Qc8 works too.)"
+          "1. Qd7 mate!"
+        ],
+        [
+          "1. Qc8 mate"
         ]
       ],
       "page": "1w8.htm"
@@ -1942,7 +1978,7 @@
       "unparsed_solution": "1. Re4+ wins the knight on e6.",
       "parsed_solution": [
         [
-          "1. Re4+ wins the knight on e6."
+          "1. Re4+"
         ]
       ],
       "page": "1w8.htm"
@@ -1958,6 +1994,7 @@
       ],
       "page": "1w8.htm"
     },
+    // stopped here
     {
       "board": "5r2/pp2n1kp/2p3p1/5p2/4PN2/8/PPP3PP/2KR4 w",
       "code": "1W0177",
