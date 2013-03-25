@@ -3,8 +3,9 @@ require_relative './parser.rb'
 module JrcParser
   class Main
 
-    def initialize(extract_config, cache_dir)
+    def initialize(extract_config, cache_dir, output_dir)
       @parser = Parser.new(cache_dir)
+      @output_dir = output_dir
       @config = extract_config
     end
 
@@ -22,9 +23,11 @@ module JrcParser
             set['puzzles'] << puzzles
           end
           set['puzzles'].flatten!(1)
+          json_doc = JSON.pretty_generate(set)
+
+          json_filename = "#{@output_dir}/" + set["name"] + ".json"
+          File.open(json_filename, 'w') { |file| file.write(json_doc) }
       end
-      json_doc = JSON.generate(sets)
-      puts json_doc
     end
 
   end
